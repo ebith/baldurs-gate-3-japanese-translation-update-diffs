@@ -1,0 +1,89 @@
+@@ -795,0 +796 @@
++	<content contentuid="h00fd2997ga583g479bg898fga33ff436a2b9" version="3">着弾すると爆発して周囲のものを焼き尽くし、金属の武器や防具に&lt;LSTag Type="Status" Tooltip="HEAT_METAL"&gt;熱&lt;/LSTag&gt; を与える、まばゆい炎を指から放つ</content>
+@@ -16970,0 +16972 @@
++	<content contentuid="h14a77fdagca5dg40e2gb9c3gf7651cbd6b7f" version="1">1ラウンドに1回、カザドールは伝説的アクションを消費して、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm_Huge"&gt;吸血の群れ&lt;/LSTag&gt;を召喚できる</content>
+@@ -23546,0 +23549 @@
++	<content contentuid="h1c943a38gc1dcg4424gb8e2gae3f47147cec" version="6">カザドールのターン開始時、ヴァンパイアの[2]以内にいる敵は&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;盲目&lt;/LSTag&gt;状態になる可能性があり、[1]を受ける</content>
+@@ -37382 +37385 @@
+-	<content contentuid="h2d1179c6g2750g4844gabdbged07a0c520d4" version="2">1ラウンドに1回、カザドールは伝説的アクションを消費して、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm"&gt;吸血の群れ&lt;/LSTag&gt;を召喚できる</content>
++	<content contentuid="h2d1179c6g2750g4844gabdbged07a0c520d4" version="3">1ラウンドに1回、カザドールは伝説的アクションを消費して、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm_Huge"&gt;吸血の群れ&lt;/LSTag&gt;を召喚できる</content>
+@@ -42256 +42259 @@
+-	<content contentuid="h32e1395fgea86g4c0agaf92gbd9e3a855f70" version="2">攻撃されると、カザドールはヴァンパイア・バットの群れを呼び出す。目標は[1]下げられ、&lt;LSTag Type="Status" Tooltip="LOW_CAZADOR_VAMPIREBAT"&gt;群がられた&lt;/LSTag&gt;状態になることがある </content>
++	<content contentuid="h32e1395fgea86g4c0agaf92gbd9e3a855f70" version="4">カザドールは[1]以内に近づいた敵を攻撃させるため、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm"&gt;ヴァンパイア・バットの群れ&lt;/LSTag&gt;を呼び出すことができる</content>
+@@ -46571,0 +46575 @@
++	<content contentuid="h3807256dg9a6bg4221gbdc1gd826c0c752ce" version="2">小さな霧の雲に変身させる。落下することもなく、小さな隙間をくぐれる。ダメージを与えることは難しい。雲の[1]以内にいる敵は&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;盲目&lt;/LSTag&gt;状態になる可能性があり、カザドールのターン開始時に[2]を受ける</content>
+@@ -50103 +50107 @@
+-	<content contentuid="h3c31d03cg05a5g475ag8975gd0d2094350ee" version="1">クラウドセーブを同期中</content>
++	<content contentuid="h3c31d03cg05a5g475ag8975gd0d2094350ee" version="1">クラウドセーブを同期中。電源を切らないでください。</content>
+@@ -52514 +52518 @@
+-	<content contentuid="h3f1ef769gb9b4g4cd7g9813g130a9acc0e2d" version="1">生き返らせてくれた借りはあるんだがが、俺たちは危険に囲まれている。また同じことが起きるかもしれない</content>
++	<content contentuid="h3f1ef769gb9b4g4cd7g9813g130a9acc0e2d" version="1">生き返らせてくれた借りはあるんだが、俺たちは危険に囲まれている。また同じことが起きるかもしれない</content>
+@@ -54260,0 +54265 @@
++	<content contentuid="h41152df9gde52g4704g84b1ged049bb114b1" version="2">秘術の継承者</content>
+@@ -62737 +62741,0 @@
+-	<content contentuid="h4b5695f7gc069g4e13g8a1fg500ff1a80f54" version="1">&lt;i&gt;まあ、かくかくしかじか、かな&lt;/i&gt;</content>
+@@ -62950 +62954 @@
+-	<content contentuid="h4b926159gfca7g4e09g8103g57dd501d79d0" version="1">敵を金合金に変えて、即座に殺そうとする</content>
++	<content contentuid="h4b926159gfca7g4e09g8103g57dd501d79d0" version="2">敵を金合金に変えようとする</content>
+@@ -64596,0 +64601 @@
++	<content contentuid="h4d84b2e0g8f06g40f7gbba7g19bdb7eabc35" version="2">カザドールは[1]以内に近づいた敵を攻撃させるため、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm_Huge"&gt;ヴァンパイア・バットの群れ&lt;/LSTag&gt;を呼び出すことができる</content>
+@@ -69270 +69275 @@
+-	<content contentuid="h534d4a49g29abg4713g8eacg076bb125251f" version="4">この状態の者は、次の&lt;LSTag Tooltip="IncapacitatingCondition"&gt;無力状態&lt;/LSTag&gt;に対する&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;+[1]ボーナスを得る</content>
++	<content contentuid="h534d4a49g29abg4713g8eacg076bb125251f" version="5">この状態の者は、次の&lt;LSTag Tooltip="IncapacitatingCondition"&gt;無力状態&lt;/LSTag&gt;に対する&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;+[1]ボーナスを得る。これは[2]回使える</content>
+@@ -76248,0 +76254 @@
++	<content contentuid="h5bae4194g6090g4007gb63fg1b0a8610b606" version="2">バルダーズ・ゲート3の標準的な戦闘</content>
+@@ -78528,0 +78535 @@
++	<content contentuid="h5e554fb3geb2ag4960g9619g212bf055c64f" version="2">一部の戦闘は簡略化され、より容易になっている</content>
+@@ -92213,0 +92221 @@
++	<content contentuid="h6eb79b5eg1d57g4579g9b4dg1d3b21851266" version="1">1ラウンドに1回、カザドールは伝説的アクションを消費して、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm"&gt;吸血の群れ&lt;/LSTag&gt;を召喚できる</content>
+@@ -98733,0 +98742 @@
++	<content contentuid="h767fae83gebd5g4e25g85dege6003d8a0966" version="2">霧隠れ強化</content>
+@@ -106293,0 +106303 @@
++	<content contentuid="h7f4d0893g7fb3g4469g95edg0e80db487583" version="2">何か隠しているな。どういうことか説明しろ。&lt;i&gt;今すぐ&lt;/i&gt;に</content>
+@@ -111015 +111025 @@
+-	<content contentuid="h84df2f6egac2eg4adagb774g2ca02649edad" version="5">ヴァンパイア・バットの群れを呼び出す。目標は[1]下げられ、&lt;LSTag Type="Status" Tooltip="LOW_CAZADOR_VAMPIREBAT"&gt;群がられた&lt;/LSTag&gt;状態になることがある </content>
++	<content contentuid="h84df2f6egac2eg4adagb774g2ca02649edad" version="4">ヴァンパイア・バットの群れを呼び出す。目標は[1]下げられ、&lt;LSTag Type="Status" Tooltip="LOW_CAZADOR_VAMPIREBAT"&gt;群がられた&lt;/LSTag&gt;状態になることがある </content>
+@@ -113242,0 +113253 @@
++	<content contentuid="h878fb475ga812g4338gb09eg92fbb29d53ad" version="2">霧の姿強化</content>
+@@ -130583,0 +130595 @@
++	<content contentuid="h9c5127bdg3b79g4e26g9cb6g342b4e0d8c63" version="1">最近起きたことを考えれば、退屈させるとは思わない！</content>
+@@ -132129,0 +132142 @@
++	<content contentuid="h9e28eb34g64f2g454cgac93g7c6339605063" version="10">霧の雲に変身し、すべての非魔法物理ダメージに完全耐性、魔法ダメージに抵抗を得る&lt;br&gt;&lt;br&gt;[1]以内にいる敵を&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;盲目&lt;/LSTag&gt;状態にする可能性があり、ターン開始時に[2]を与える。この状態は日光によって解除される</content>
+@@ -136187,0 +136201 @@
++	<content contentuid="ha2fc36aegb133g4e4fg9a85g19b36ba5d91d" version="2">一部の戦闘は複雑化され、より困難になっている</content>
+@@ -146974 +146988 @@
+-	<content contentuid="hafb5828bg9b91g40a0g89f1g93ca7dfa1089" version="2">霊魂の力がこのクリーチャーを&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐怖&lt;/LSTag&gt;状態にして、あらゆるダメージに対して&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を与える</content>
++	<content contentuid="hafb5828bg9b91g40a0g89f1g93ca7dfa1089" version="3">霊魂の力がこのクリーチャーを&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐怖&lt;/LSTag&gt;状態にして、あらゆるダメージに対して&lt;LSTag Tooltip="Vulnerable"&gt;脆弱&lt;/LSTag&gt;にしている</content>
+@@ -156927,0 +156942 @@
++	<content contentuid="hbb903cecgb33ag4f53gbe78gdd35ad581ccf" version="2">ローランはラマジスの塔を支配し、レベルを[1]に上げて新しい魔法の力が使えるようになった</content>
+@@ -157525,0 +157541 @@
++	<content contentuid="hbc44116agb3a9g4479g805dgf5d825dbd05c" version="3">瘴気の霧</content>
+@@ -159031 +159047 @@
+-	<content contentuid="hbe1064ecg12c5g479fg9ebdgca5f5d375fcc" version="4">[1]以内の敵に攻撃されると、ヴァンパイア・バットの群れを呼び出す。目標は[1]下げられ、&lt;LSTag Type="Status" Tooltip="LOW_CAZADOR_VAMPIREBAT"&gt;群がられた&lt;/LSTag&gt;状態になることがある </content>
++	<content contentuid="hbe1064ecg12c5g479fg9ebdgca5f5d375fcc" version="5">敵が近づくといつでも、ヴァンパイア・バットの群れを呼び出す。目標は下げられ、&lt;LSTag Type="Status" Tooltip="LOW_CAZADOR_VAMPIREBAT"&gt;群がられた&lt;/LSTag&gt;状態になることがある </content>
+@@ -172664,0 +172681 @@
++	<content contentuid="hce2daf1bg48b3g40dfg9e2bg64aa25009b2e" version="1">&lt;i&gt;最近起きたことを考えれば、退屈させるとは思わない！&lt;/i&gt;</content>
+@@ -173240,0 +173258 @@
++	<content contentuid="hced2cd86g2b96g4c13ga32eg0d0f4855b6c3" version="6">[1]以内にいる敵は&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;盲目&lt;/LSTag&gt;状態になる可能性があり、カザドールのターン開始時に[2]を受ける</content>
+@@ -175238,0 +175257 @@
++	<content contentuid="hd13bba56gdd41g467fg957fg752a42fa8e70" version="1">信じてくれ。何が問題なのか聞きたい</content>
+@@ -176088 +176107 @@
+-	<content contentuid="hd2483c4eg1d05g4a56gae35g86f1ddad520e" version="1">クロスセーブはあなたの最新セーブ5つを、バルダーズ・ゲート3をプレイしているプラットフォームの間で自動的に同期します</content>
++	<content contentuid="hd2483c4eg1d05g4a56gae35g86f1ddad520e" version="1">クロスセーブはあなたの最新セーブ10つを、バルダーズ・ゲート3をプレイしているプラットフォームの間で自動的に同期します</content>
+@@ -184245,0 +184265 @@
++	<content contentuid="hdc313855ga3dcg4a83ga6f0g81f96e86f8d8" version="1">1ラウンドに1回、カザドールは伝説的アクションを消費して、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm_Large"&gt;吸血の群れ&lt;/LSTag&gt;を召喚できる</content>
+@@ -185616,0 +185637 @@
++	<content contentuid="hddd4f879gae28g489ag8c05g3c543a5baed7" version="2">カザドールは[1]以内に近づいた敵を攻撃させるため、&lt;LSTag Type="Spell" Tooltip="Zone_LOW_Cazador_BatSwarm_Large"&gt;ヴァンパイア・バットの群れ&lt;/LSTag&gt;を呼び出すことができる</content>
+@@ -187667 +187688 @@
+-	<content contentuid="he0501a2eg5658g4d11g86cag54c61501320d" version="6">1ターンに1回、&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;を行う場合に、攻撃が目標の関連&lt;LSTag Tooltip="Abilities"&gt;能力値&lt;/LSTag&gt;を[1]低下させる</content>
++	<content contentuid="he0501a2eg5658g4d11g86cag54c61501320d" version="8">1ターンに1回、&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;を行う場合に、攻撃が目標の関連&lt;LSTag Tooltip="Abilities"&gt;能力値&lt;/LSTag&gt;を[1]低下させる。能力値は1以下に低下しない</content>
+@@ -192034,0 +192056 @@
++	<content contentuid="he5801a0bga330g4c4fgae45ge57c615ecdc4" version="2">ローランの火球</content>
+@@ -192265,0 +192288 @@
++	<content contentuid="he5ba807fg345eg4358g8debgc914e0d64a63" version="3">瘴気の霧のオーラ</content>
+@@ -202987,0 +203011 @@
++	<content contentuid="hf2ad8526g4697g4424g9bb7g643d7308fd11" version="1">クリーチャーが金属の鎧だけを身に着けている場合、常に不利になる&lt;br&gt;&lt;br&gt;クリーチャーがなおも金属に触れている場合、次ターンでボーナス・アクションを使用してさらに[1]を与え、そのクリーチャーに金属を放させるか、または不利になるよう仕向けられる</content>
+@@ -210820,0 +210845 @@
++	<content contentuid="hfc190156gd280g4804g892cg25b8dfdd90db" version="3">前のキスの後、少し変な感じがした</content>
+@@ -212755 +212779,0 @@
+-	<content contentuid="hfe72df3fg2bb3g4082gae89g715e297adb20" version="1">まあ、かくかくしかじか、かな</content>
