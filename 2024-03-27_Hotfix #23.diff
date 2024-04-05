@@ -1,639 +1,205 @@
-@@ -3410,7 +3410,7 @@
- 	<content contentuid="h04451d79g6e4cg4de7ga720g9ee2fe46338d" version="1">どうかな。地獄の機械に手を加えてしまって、大丈夫なのか？</content>
- 	<content contentuid="h04451ec4gffa6g445eg91fdg3b8f76a80592" version="2">満ちゆく時</content>
- 	<content contentuid="h04455e39g5dc6g4195g8aecgeb0b79c1d6bd" version="1">最後まで戦い抜けるように、あの地獄の鉄を見つけましょう</content>
+@@ -3413 +3413 @@
 -	<content contentuid="h04458758g6065g44aeg86e1g737f805e7a55" version="3">だが、すべてはこれからだ。まだ日は高く、この先だって何千日もある</content>
 +	<content contentuid="h04458758g6065g44aeg86e1g737f805e7a55" version="3">だが、すべてはこれからだ</content>
- 	<content contentuid="h0445a1aag88c5g4c31g80e6g669c35ddc0c1" version="1">お前らしいわ。意見がはっきりしている。これがお前の望みなら、やってしまいなさい</content>
- 	<content contentuid="h0445cfe5g6a60g48e4g84d4g95928d3674f0" version="3">剣技習得</content>
- 	<content contentuid="h04465fcfg36bag42dcgb84eg558104c7ef5f" version="1">なら失せろ。時間の無駄だ</content>
-@@ -7224,6 +7224,7 @@
- 	<content contentuid="h08dc52f5geccbg4c88g8f35gd7f22b840eec" version="4">ザリスがこの宝箱を探していた。ザリスの元に持ち帰るなら、手を付けないほうがいいわ</content>
- 	<content contentuid="h08ddfbeag1b52g4476gb8e7g6cc0cb6a23df" version="1">違う。賢明な瀉血は紛争を収め、弱者と&lt;i&gt;嘘つき&lt;/i&gt;を淘汰する</content>
- 	<content contentuid="h08de032dg732fg49aegadedg99456c7be9b3" version="1">まだらの鍵</content>
+@@ -7226,0 +7227 @@
 +	<content contentuid="h08de07edg77d2g4c90gab6eg6091b28684db" version="1">クラウド同期失敗</content>
- 	<content contentuid="h08de15eeg5b6eg4ad8g8544g448f9d97e5f6" version="1">確かにそうだが、&lt;i&gt;より優れた&lt;/i&gt;方法があるとは限らない</content>
- 	<content contentuid="h08de5f8dg29e3g44bcgb64age0453d889802" version="1">アブソリュートの心臓を破壊する</content>
- 	<content contentuid="h08deb974g08ebg4000g9b40g65c40bb02512" version="2">その幼生に脳の賢さを食われてなければ、私と同じ意見になるはずよ</content>
-@@ -12908,7 +12909,7 @@
- 	<content contentuid="h0f9a2cbdg6278g4d16gbabcge8fc5ab8d57f" version="3">グラットというマイコニドは、君主が我々にドゥエルガルを倒す依頼をしたと聞いた。参戦したがっている</content>
- 	<content contentuid="h0f9a7ae2gb3bbg480ag82b1gfcddc4f2c5d1" version="1">火の矢</content>
- 	<content contentuid="h0f9aa33agbc03g4a46gbe45g81ebfae3d05b" version="1">ギルド長とは不仲じゃないようだ</content>
+@@ -12911 +12912 @@
 -	<content contentuid="h0f9b0f80g9c05g4ee9g87fbgc84744225a2a" version="2">そうね。私がお前を訪ねよう、母なるセルーネイがふさわしいと思った時に。耐えなさい。やがてその時はくる。そしてお前は、私が伝えねばならない真実を忘れられない</content>
 +	<content contentuid="h0f9b0f80g9c05g4ee9g87fbgc84744225a2a" version="2">知りたい気持ちはわかる。だが母なるセルーネイがふさわしいと認めた時に、私がお前を訪ねよう。耐えなさい。やがてその時はくる。私の伝える真実は、忘れ得ぬものとなるだろう</content>
- 	<content contentuid="h0f9bc7f7g0febg430eg9e10g7bb40c7b3824" version="1">これが鍛冶場に違いない。なんと見事な技術だろうか</content>
- 	<content contentuid="h0f9cb33eg8559g4d67gb5b1g59e315bfaa85" version="3">ミンスクは騙されている。地獄にかけて、あのシェイプシフターから引き離さないといけない</content>
- 	<content contentuid="h0f9cba1dgb05ag44b0g9e98g4a3bd96179d4" version="3">*あなたの血流が速くなり、心の中心にぽっかり開いた穴を満たしていく*</content>
-@@ -12927,7 +12928,7 @@
- 	<content contentuid="h0fa0f553gb6f1g4cf1g8fd5g18169d7da79f" version="2">今はジャヘイラを置いていく</content>
- 	<content contentuid="h0fa1141cg47fag4f9fg9f5fgbd97051dbdd8" version="2">*それにオーブはどうなったのだろう？ 早くもエルミンスターの魔法が薄れてきていると感じる。自分を制御することすらままならないのに、それでも爆発を阻止できるだろうか？*</content>
- 	<content contentuid="h0fa16f35g0921g4bd1gbb5fgacffc558f7ab" version="1">この関係はどんな意味を持っている？</content>
+@@ -12930 +12931 @@
 -	<content contentuid="h0fa17157gbdb2g4e97ga058g4867fbd4b083" version="3">ここ好き。あったかい火。スクラッチはおにいちゃんみたい</content>
 +	<content contentuid="h0fa17157gbdb2g4e97ga058g4867fbd4b083" version="3">ここ好き。あったかい火。スクラッチといるとお兄ちゃんを思い出す</content>
- 	<content contentuid="h0fa18bc6g937cg4d51ga87fg2f4af62e3d0a" version="3">説明してくれ</content>
- 	<content contentuid="h0fa1db11gd215g43f2g898fg85494bc2d4aa" version="2">お前を拘束から解き放った。好きに行って構わない</content>
- 	<content contentuid="h0fa216b3g18a7g41aegb695gfec715c5557c" version="7">見ろ。&lt;i&gt;よく見ろ&lt;/i&gt;。俺のものだ</content>
-@@ -15653,6 +15654,7 @@
- 	<content contentuid="h12e5e2f7gc6c1g4685gbf68g1ce7831fd3f7" version="1">俺たちはますます追い詰められているのに、潜在的な戦力を無視する余裕が本当にあるのか？</content>
- 	<content contentuid="h12e5fcd7g41c5g4961gaca1gb874e99e50a7" version="4">そして、噂が本当なら不死身のソーム将軍を倒しに行ったとか</content>
- 	<content contentuid="h12e68849g13c9g4f0dg8ba8g61717fa4ccce" version="1">ベハルの子がおかしくなるのは、これまでになかったことだろう？</content>
+@@ -15655,0 +15657 @@
 +	<content contentuid="h12e6e4e7g5d87g474bgb599g26882044a706" version="1">分割画面: 以降</content>
- 	<content contentuid="h12e72bd1g55c1g474agbfc8g520cd3297c11" version="1">好きにすればいい。俺はただ、冷静な対処だったと言おうとしただけだ</content>
- 	<content contentuid="h12e81bcegc8f7g425egba2eg489c7d4cb328" version="1">駆け足だ、次から次へと蹄を運んでな！</content>
- 	<content contentuid="h12e86045g1364g4d32ga2f7g9dcf8b3c94e2" version="1">ブラス5</content>
-@@ -19353,7 +19355,7 @@
- 	<content contentuid="h175fec85ge276g4aadgb849g29a2204b13dd" version="1">棚</content>
- 	<content contentuid="h175ff9eag1d47g48c0g982dg61d34a083f58" version="1">彼女に街へ危害を加えさせるくらいなら、ミゾーラの手で死ぬ。解決策を探し出してみせる</content>
- 	<content contentuid="h17604c3ag854eg44aag970bgc324ec368ee7" version="1">自分がこんなに繊細だとは思ってなかった。言い方を変えれば、そうだ</content>
+@@ -19356 +19358 @@
 -	<content contentuid="h1760843fga76eg4af2gb200gb9123ce904c8" version="1">家へ！</content>
 +	<content contentuid="h1760843fga76eg4af2gb200gb9123ce904c8" version="1">家だ！</content>
- 	<content contentuid="h1760ac50g7ab0g43e7g9f33g67f9d1304b12" version="2">デイム・エイリンはとてもひどい目に遭ってきた。きっと悪党を殺すことに疲れている</content>
- 	<content contentuid="h1760fb89gbff8g4055g850dg57b6f8d49888" version="1">複数のオプションがある場合に、ゲームを実行するグラフィックカードを選択する</content>
- 	<content contentuid="h17613ef1g296eg41f4g8eecg1c1a6e35de0a" version="1">&lt;i&gt;放っておく&lt;/i&gt;</content>
-@@ -20399,7 +20401,7 @@
- 	<content contentuid="h18aea318gc495g4c48g87c8gf4298fe57d00" version="1">お前はそうしなかった。だから、代わりにお前を信じることにした</content>
- 	<content contentuid="h18aec024g130fg4268g9b90g0421f308906c" version="1">びくびくしないで。私が守るわ</content>
- 	<content contentuid="h18aec98egda5fg44fdg800fg07fc6171d4a5" version="3">真実を教えなさい！</content>
+@@ -20402 +20404 @@
 -	<content contentuid="h18af0ca5gbbffg405cg9952gc06dab60ccdf" version="1">ゴータシュを見たんでしょう？ 奴はあそこで何をしていたの？ すべて奴のせいなの？</content>
 +	<content contentuid="h18af0ca5gbbffg405cg9952gc06dab60ccdf" version="1">ゴータシュを見たでしょう？ 奴はあそこで何をしていたの？ すべて奴のせいなの？</content>
- 	<content contentuid="h18af59d3gd122g4d76gb718gad1b01c54184" version="1">すすけた宝箱</content>
- 	<content contentuid="h18b03b24g4913g4074gab18gee548df9b5f2" version="1">ベックス</content>
- 	<content contentuid="h18b07f07g193cg4de4gb2e6g7fb017729a76" version="2">ローラン！ 無事だったのか！</content>
-@@ -21629,7 +21631,7 @@
- 	<content contentuid="h1a28c5a7ga4f1g470fgbc68ga73948c42f28" version="2">では品揃えを見せてもらう</content>
- 	<content contentuid="h1a28deb6ge603g4d18gae48g3923ef1e7e2f" version="1">ガンドを仕事に戻し、鋼の衛兵を再建し、無敵の軍隊を引き連れてアンダーダークに進軍する。しかも征服の歌を口ずさみながら</content>
- 	<content contentuid="h1a298ed3g4002g4532gb5e0g92cdcc9d45f8" version="1">関係</content>
+@@ -21632 +21634 @@
 -	<content contentuid="h1a29aa8fg18c8g4a78g9705g845fb9715104" version="1">シャダーカイの陰気な機織り</content>
 +	<content contentuid="h1a29aa8fg18c8g4a78g9705g845fb9715104" version="1">シャダーカイのグルーム・ウィーヴァー</content>
- 	<content contentuid="h1a2a3faaga7ecg49bcg8b20gea721e9ec9f1" version="3">フン</content>
- 	<content contentuid="h1a2a4489gcb37g48c5g89b9g13793082b19a" version="2">×印がある。目的地はムーンライズ・タワーの根本だ</content>
- 	<content contentuid="h1a2a810egcda5g420bg8a18gcb50147ed7d6" version="1">...こっちも戦う気はない。何の用でここに来た？</content>
-@@ -26380,7 +26382,7 @@
- 	<content contentuid="h1fb0498eg0d51g455cgab45gb14db00c6f29" version="2">悪いが忙しいんだ。アブソリュートに街を破壊されるまで、買い物の時間はほとんど残ってない</content>
- 	<content contentuid="h1fb05499g1c88g4f8fgbe0dgac3050002a43" version="3">&lt;i&gt;あなたの抵抗は揺るがない... もう1度呪文を発動する&lt;/i&gt;</content>
- 	<content contentuid="h1fb0d05bg9675g4a8eg86bag51e718244d50" version="1">もう地固めはできているようだ</content>
+@@ -26383 +26385 @@
 -	<content contentuid="h1fb15f1eg6d9ag40a0gad10g7f7cb1bc6d1a" version="1">助けを請う場合を見極めることは大事だ。弱点じゃない</content>
 +	<content contentuid="h1fb15f1eg6d9ag40a0gad10g7f7cb1bc6d1a" version="1">助けを請う場面を知ってるのは賢いことだ。弱点じゃない</content>
- 	<content contentuid="h1fb1cc62gc78fg4391ga957gb60794dd1520" version="3">エルミンスターはミストラからの命令も伝えてきた。「アブソリュートの心臓」を見つけたら、俺はオーブを爆破しないといけない</content>
- 	<content contentuid="h1fb1de2ag00dcg4b38gbc40g457fca02e14b" version="2">&lt;i&gt;彼女の心へさらに潜り込む&lt;/i&gt;</content>
- 	<content contentuid="h1fb1f2ddg0315g4821gb6cagd24916f2c2b0" version="2">前者で頼む</content>
-@@ -28016,7 +28018,7 @@
- 	<content contentuid="h21a7b18fg8b2cg44ceg8292g9562e8cb1a61" version="1">食事の時間ですよ、冒険者の皆さん！</content>
- 	<content contentuid="h21a7ede6gc666g4e03g9c73g6bd78d31e1d0" version="1">ご友人は特別で、恩知らずで、彼らとともに旅するなんて、ご自分をレルム一運のいい不幸な者だと考えるべきです</content>
- 	<content contentuid="h21a83aa2ge9d5g4779g9cbcgb4ddec178dd2" version="2">毒状態</content>
+@@ -28019 +28021 @@
 -	<content contentuid="h21a86136g330dg4a09ga3efg3d1588d1ef81" version="2">はっ！ 魔法小間物屋はただの交易の場ではない。長年秘術のコミュニティに使われてきた</content>
 +	<content contentuid="h21a86136g330dg4a09ga3efg3d1588d1ef81" version="2">はっ！ 魔法小間物屋はただの店ではない。長い間そこに秘術を扱う者たちが集ってきたんだ</content>
- 	<content contentuid="h21a8c677g49f4g4cc6gb078g54262a9f4107" version="1">&lt;i&gt;何かが気になる。罠かもしれない。ザリエルが好きそうな罠だ&lt;/i&gt;</content>
- 	<content contentuid="h21a90145ga4d1g435cg8bb8g9f322e42dd54" version="1">スケルトン</content>
- 	<content contentuid="h21a93665g8384g4d46g8c9fg891b6bc70111" version="2">アアシマールが味方になるなんて。勝算が傾いているのがわかる</content>
-@@ -35217,7 +35219,7 @@
- 	<content contentuid="h2a251881g1cdcg4696g9d36g697d7ac71994" version="6">装備者が光輝ダメージを与えると、&lt;LSTag Type="Spell" Tooltip="Projectile_MAG_Radiant_RadiatingOrb_Explosion"&gt;衝撃波&lt;/LSTag&gt;を起こす</content>
- 	<content contentuid="h2a25c064gf8efg4436gad5dga58e8f63d391" version="2">&lt;i&gt;チク(チッ)&lt;/i&gt;、ヴァンパイア・スポーン？ 私たちの中にアンデッドが紛れていたなんて</content>
- 	<content contentuid="h2a25c226g3bccg4874g93dcgd5a3c4f47d39" version="1">...本当に吐き気がする</content>
+@@ -35220 +35222 @@
 -	<content contentuid="h2a265f7bg4781g4821gb1e8g1d61dc9ca996" version="1">*あなたの度胸が試され、少なくともこれにおいては成功を収めた*</content>
 +	<content contentuid="h2a265f7bg4781g4821gb1e8g1d61dc9ca996" version="1">*あなたは度胸を試され、今回それはみごと実を結んだ*</content>
- 	<content contentuid="h2a26b785gdb3dg496ega5bbg0d86e67bbd14" version="2">...そうだ。彼女は戻ってこない</content>
- 	<content contentuid="h2a270c7dg1c73g4d74gb268g89c545e8be18" version="1">ハーパーの仕事の半分を1人で片づけていた</content>
- 	<content contentuid="h2a278fe0g4ed1g4560g8802g298cf4682fb2" version="1">来い、もう行くぞ</content>
-@@ -39303,7 +39305,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h2efd4a39gb76fg4a66gbdbeg08a312bd20f2" version="1">*それはあなたが近づくのを用心深く見ている。かいてやるべき肉も毛皮もなく、ただ骨と冷たい金属があるだけだ...*</content>
- 	<content contentuid="h2efd7f59gc3dag4e0fgbf48g692649428946" version="1">かつては立派な花瓶だったが、経年劣化や放置によってひび割れている</content>
- 	<content contentuid="h2efe0373g9044g4451g8ea8g497a1b9c6d7e" version="1">何の話だ？</content>
+@@ -39306 +39308 @@
 -	<content contentuid="h2efe6a30gbcebg4238gb1eag52ae81ce2d64" version="2">*しかし、定命の利点には限りがなく、また否定もできない*</content>
 +	<content contentuid="h2efe6a30gbcebg4238gb1eag52ae81ce2d64" version="2">*しかし、不死の利点には限りがなく、また否定もできない*</content>
- 	<content contentuid="h2efe7e22gf007g487fgb47cg31ba7a8206f4" version="1">放逐</content>
- 	<content contentuid="h2efeb3b1g77d6g4cfcg9741g481351c3be8e" version="2">素晴らしい研究協力だ、きっとお前も同意するだろう。理論を教え合いたければ、彼らは上にいるぞ</content>
- 	<content contentuid="h2efebf7cgc4a6g45d9g834eg1eec78054bdd" version="2">ウールブレンは一緒に来れない。今はあなたと私だけ</content>
-@@ -45572,7 +45574,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h3666bfbdg5828g4dc8g8aa6g03b49d0d4808" version="1">自分でもおかしいことを言ってると思わないか</content>
- 	<content contentuid="h3666d0beg2ad9g44eag82c8gc74b8089d64c" version="1">アストラル・プリズムでオルフェウスに近づく</content>
- 	<content contentuid="h3666f463g62acg4f30gbda7gf531eb60d6a5" version="1">うわ、本気なのね。助けて！ 助けて！</content>
+@@ -45575 +45577 @@
 -	<content contentuid="h36671116g4937g4952g9c9ag8fba65dbfcb4" version="1">心から彼を愛してる</content>
 +	<content contentuid="h36671116g4937g4952g9c9ag8fba65dbfcb4" version="1">超カワイイ！</content>
- 	<content contentuid="h36672251g4a06g430eg901eg0846c96aaa80" version="1">もう少しマシな扱いをするべきだと思わないの？</content>
- 	<content contentuid="h36673aa3g88cdg471cgbb2cg5e1bd26900dd" version="2">私が家に残って子供の面倒を見ないといけないなら、ちゃんと世話をする家が残るようにするのが&lt;i&gt;あなたの&lt;/i&gt;仕事よ</content>
- 	<content contentuid="h36674b1fgfad1g44bcgb8b0g3bcef520be11" version="2">ウルマ。ガー人の力が必要だ。力を貸してくれ！</content>
-@@ -48991,6 +48993,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h3a65df58gc402g4327gb91bg929ecc9e8b36" version="1">隷属者の死体</content>
- 	<content contentuid="h3a65e478g5e3cg453fg8f17g02ac67807c18" version="2">*死体は沈黙している。質問を理解していない*</content>
- 	<content contentuid="h3a66209cg0f6bg44deg80dbg8072c8c0e046" version="3">一緒に寝た時、奴らに頭をめちゃくちゃにされてから、初めて自分に戻れた</content>
+@@ -48993,0 +48996 @@
 +	<content contentuid="h3a665827g4f26g48e4gb813g5226a82da9dd" version="1">[2]が魔法のポケットを使って、旅人の箱から[1]を受け取った</content>
- 	<content contentuid="h3a66783bg9eacg4abfg8664g52076970858e" version="2">また会う日まで、ありとあらゆる幸運を祈っている。健康を、富を、愛を。そして何より、解決するべき問題を</content>
- 	<content contentuid="h3a66bd02g997eg4ecbg8acdg8e3c5a70a1e7" version="3">上の宿屋で何が起きたか知っているか？</content>
- 	<content contentuid="h3a66c292g4d06g4763gb215gd1e6e808aaf1" version="1">...ふむ。紛失したようだ。あれなしでもお前ならなんとかできるだろう</content>
-@@ -49089,6 +49092,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h3a858e5eg4a2ag41d8g8074gacb15c991c78" version="2">記憶だけで足場を見つけねばならないようだ。ここを無事に通り抜けたかったらな</content>
- 	<content contentuid="h3a8591dbg30f4g4d7egb4b5g41e21b316c40" version="1">時間は、記憶を書き換えることがある。普通の人生の何倍もの時間が経ったせいで、捕らわれの身だった頃のことは思い出せない... 自分の身に何が起こったのか、見失ってしまったのかもしれない</content>
- 	<content contentuid="h3a859805g1765g4cf6g8114g3e8443e1581b" version="1">頭2</content>
+@@ -49091,0 +49095 @@
 +	<content contentuid="h3a85d62bg742ag4dd9g8247g10dd9bcba0f2" version="1">、&lt;br&gt;旅人の箱から[1]を受け取った</content>
- 	<content contentuid="h3a8639e8g8e82g4d3cg8029g0f210749f393" version="2">今の連中もできるだけのことをしてるんだろう。この... &lt;i&gt;状況で&lt;/i&gt;</content>
- 	<content contentuid="h3a869fdag2da6g4134gb923g67645011b561" version="3">ティマスク茸の胞子を放ち、クリーチャーを&lt;LSTag Type="Status" Tooltip="TIMMASK_SPORES"&gt;惑乱&lt;/LSTag&gt;させる</content>
- 	<content contentuid="h3a87d28bg29dfg4ae6g87a2g66b1bbb4f371" version="1">影の縁</content>
-@@ -50409,7 +50413,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h3c11d1e7gfa35g4521ga424gbb475be33bcc" version="2">本を破壊するなんて野蛮だ！</content>
- 	<content contentuid="h3c125209g8f6eg403agbd09ga4d57bbcc380" version="2">奴はここへ来る。それしか知らないからだ。他に何もできないからだ</content>
- 	<content contentuid="h3c126837gf024g4dd5g927eg4cb3b2bbd372" version="1">ふん。あんたは見てないんだね？ もういいよ</content>
+@@ -50412 +50416 @@
 -	<content contentuid="h3c12716agefe3g4a4dga9a6gfd93f70126f9" version="2">気をつけろ。これはお前を殺すための武器では？</content>
 +	<content contentuid="h3c12716agefe3g4a4dga9a6gfd93f70126f9" version="2">気をつけろ。それはお前を殺すための武器では？</content>
- 	<content contentuid="h3c12c8dag19cag4a02g9a60g4c5742eac9d1" version="3">みんな私が犬を殺したと思ってる。あいつが&lt;i&gt;好き&lt;/i&gt;だったのに</content>
- 	<content contentuid="h3c13870dgbc98g471eg8156gdd81fc53115e" version="2">それは優先事項じゃない。順番を待つか1人で行け</content>
- 	<content contentuid="h3c13d45age78dg44cbgb900g928a59bd2912" version="2">幸い、我々には別の選択肢がある。ヴラーキスに栄光あれ</content>
-@@ -55313,7 +55317,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h41cf828cge4dfg4131gac17ge2016130c82f" version="2">*彼女の緊張が突然張り詰める。遺物について話すと彼女は不安になる *</content>
- 	<content contentuid="h41cf8a55gff2fg407dgbfbeg36eb411f9a69" version="2">闇の司法官は夜の歌い手のもっとも信頼厚き戦士だった。&lt;i&gt;ここ&lt;/i&gt;は彼らがその地位を得たところだった</content>
- 	<content contentuid="h41cfa03eg1509g4ddag8e58gaab355cbb98c" version="2">アラディンたちはそこから下へ行く道を探していた。ナイトソングという遺物を回収すれば大金がもらえるという話だった。だが、話には裏がありそうだったな</content>
+@@ -55316 +55320 @@
 -	<content contentuid="h41cfd429ge030g41bdg81f6gf59924e20033" version="1">俺はレイピアを持って出かけた。空は雲がなかったが、星も出ていなかった</content>
 +	<content contentuid="h41cfd429ge030g41bdg81f6gf59924e20033" version="1">俺はレイピアを持って出かけた。空には雲1つなかったが、星も出ていなかった</content>
- 	<content contentuid="h41d03d51g7e4eg4b1fga793g57fc55d74116" version="3">アブソリュート軍に勝ち目はない。ゴータシュにゴキブリのように踏み潰されるまでだ</content>
- 	<content contentuid="h41d0d282g3e7ag47eeg9de0gcd44c939970a" version="2">&lt;i&gt;ジャブルーダ(質問はなしだ)&lt;/i&gt;</content>
- 	<content contentuid="h41d0d966g744fg48dbg8ec0ge9ecd498fc6d" version="1">なぜ正体を隠していたんだ？</content>
-@@ -55598,6 +55602,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h4222bc0ag58e9g4cd3ga849g614bc9919790" version="2">任せろ</content>
- 	<content contentuid="h4222d3ddg3379g4f8dg8805g781d0c37619c" version="4">――暴君――&lt;i&gt;倒せ――&lt;/i&gt;&lt;br&gt;&lt;i&gt;喜び！――&lt;/i&gt;&lt;br&gt;&lt;i&gt;――自由――&lt;/i&gt;近い――&lt;br&gt;</content>
- 	<content contentuid="h42232c79ga5edg42e7gaca7gaf1bc2c3e16e" version="1">わかった。野営地で会おう</content>
+@@ -55600,0 +55605 @@
 +	<content contentuid="h42233ee2gf7beg4156ga7b8gafa75ae51d09" version="1">Larianクラウドセーブの同期に失敗しました。ネットワーク接続をご確認ください</content>
- 	<content contentuid="h42234df7g95cbg4625g84adg17ad3cce8657" version="1">どうでしょう。最初からお前の心が見えていたような気がする。それ以来、ずっと一緒にいる</content>
- 	<content contentuid="h42239f2agf9b0g4210gb2fcg263fe858d413" version="1">彗星の王子は再び立ち上がらなければならない。取引に応じましょう</content>
- 	<content contentuid="h4223abf8ge70eg423bg97c9g78638c09211f" version="1">&lt;LSTag Type="Spell" Tooltip="Wall_WallOfStone"&gt;石の壁&lt;/LSTag&gt;と&lt;LSTag Type="Spell" Tooltip="Target_InsectPlague"&gt;蝗群&lt;/LSTag&gt;を発動できる</content>
-@@ -57191,7 +57196,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h4405233eg5505g4228gb5e2g50c77bbe230b" version="1">この小さな本は明らかに安っぽい作りだ</content>
- 	<content contentuid="h44055122g1808g49efga73bg0e3b74cb8d61" version="1">お前の勇気が移ってしまったか。それとも正気を失いかけてるのかもな</content>
- 	<content contentuid="h4405a5fdg494eg4ce3g9157g97bab9fcce2d" version="1">この妙薬を飲めば、不可視のクリーチャーを見つけ出せる。飲むと他の妙薬の効果を上書きする</content>
+@@ -57194 +57199 @@
 -	<content contentuid="h4405b83eg0ef7g49eag89d9g56eb6fa9d07d" version="1">どんな提案だ？</content>
 +	<content contentuid="h4405b83eg0ef7g49eag89d9g56eb6fa9d07d" version="1">何をしたらいい？</content>
- 	<content contentuid="h4405e35cg1744g44b0gb874g3f38007c6668" version="4">安全な場所までベンリンを送る</content>
- 	<content contentuid="h44060a59g888cg475fg9323ga624bdc4c1c4" version="1">屋敷というよりただの寝ぐらだ</content>
- 	<content contentuid="h4406a413gddbfg431dg99aag5e152094cb32" version="2">ダメだ。行かせはしない、先に約束しろ。和平を結ぶんだ</content>
-@@ -58288,7 +58293,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h455d61e6g48ddg43bdgaa21g29dd3a9f5555" version="2">もっと気をつけるべきよ。カルト教団に支配された街で歓迎されることはない</content>
- 	<content contentuid="h455d9f79gfdddg4f60ga7f6gbe4dc7ccd194" version="2">しわがヒリヒリしてきたとこなんだ。法の番人として命じる。すぐに私を解放するんだ</content>
- 	<content contentuid="h455df609g4562g474cgacc9g0735572ea34a" version="1">魔法小間物屋でさらに情報を探る</content>
+@@ -58291 +58296 @@
 -	<content contentuid="h455e6923g4ef8g456fga057gcdff0c5ae38e" version="2">いや。散々だ</content>
 +	<content contentuid="h455e6923g4ef8g456fga057gcdff0c5ae38e" version="2">いや、酷い光景だった</content>
- 	<content contentuid="h455ed1f8gaf1fg499dgb511g41af9717937a" version="1">我が友人、地獄を歩む者</content>
- 	<content contentuid="h455f27f3g2629g451eg9189gbe0a30338be0" version="1">ほとんどのイリシッドは変身によって奴隷を支配することを好むのに、あなたはこうして、部分的にしか変身していない</content>
- 	<content contentuid="h455f3d35g507fg4c83g8f70g388628d9d964" version="2">メンゾベランザンでは高貴な者がひれ伏して、ほんの一時でも私の肉体を味わおうとする</content>
-@@ -59926,7 +59931,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h474ce319gf772g4b97gbcb9gd71e6ba8dc06" version="1">こいつらは他人じゃないか！</content>
- 	<content contentuid="h474cef1dg1bdbg4e93gb8cdgd017bae2569d" version="1">だから&lt;i&gt;ミンスクは&lt;/i&gt;非難しない</content>
- 	<content contentuid="h474d204fg283cg4755ga80cg1f6d6848b2e2" version="1">&lt;i&gt;身体に気をつけて、ジャヘイラ。すぐに休めるようになるといい&lt;/i&gt;</content>
+@@ -59929 +59934 @@
 -	<content contentuid="h474d6311g638ag444bga2efg1a210bc0bf03" version="2">実は... シャドウフェルに何かやられた。治癒師でも治せはしない。もう長くはないんだ</content>
 +	<content contentuid="h474d6311g638ag444bga2efg1a210bc0bf03" version="2">実は... 俺はシャドウフェルに毒されてしまったらしい。治癒師でも治せはしない。もう長くはないんだ</content>
- 	<content contentuid="h474d63d9gd59cg4694gb06ag92740e9996fb" version="2">無事だった自分は幸運だ</content>
- 	<content contentuid="h474de912g2cc0g4dc1g87degac5b671a77f5" version="1">ヘッ。俺は&lt;i&gt;お前の&lt;/i&gt;バカだ</content>
- 	<content contentuid="h474e5c4fg7a8fg4f2fg9341g03c6e0aa40f0" version="3">不純物がすべて焼き落とされた抽出物で、もちろん火の元素と結びついている</content>
-@@ -60792,7 +60797,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h4858d65cgffbag4d9bg8d8cgf6221510b5d6" version="2">信じてくれ... そのようなアイテムから得られる力は九層地獄、ついでに天さえも超える価値があるものだ</content>
- 	<content contentuid="h4858e9a1gb81fg4335g9839gcd8e479ce0cc" version="1">イカサマ師</content>
- 	<content contentuid="h4859257fg67adg45dcga019g7ff16a5f55d3" version="1">もういい</content>
+@@ -60795 +60800 @@
 -	<content contentuid="h48595184g6762g4f42g91feg61299617bc0d" version="2">織物の母ミストラに乾杯！</content>
 +	<content contentuid="h48595184g6762g4f42g91feg61299617bc0d" version="2">ウィーヴの母ミストラに乾杯！</content>
- 	<content contentuid="h4859ae7eg449bg43bfgad7dgac6daef21da8" version="1">女神シャーは他のことに... 別のことに関心をお持ちよ。でも彼女は女神だから... ご自身を脅かさないものは無視できる</content>
- 	<content contentuid="h485a7c41gc543g4290ga46bg30c47af42c34" version="1">精巧なものだぞ。マスターが自ら鋳造したんだ。地獄の奥底から集めた金属でな</content>
- 	<content contentuid="h485b5a5fgedf0g47cdg8929g9b831d06b55b" version="1">シャーの忠実な信徒 </content>
-@@ -61673,7 +61678,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h496a432dg0d06g427dgb869g30b47b866bfa" version="5">&lt;i&gt;安らぎだ。魔法がないと、とても穏やかな感じだ&lt;/i&gt;</content>
- 	<content contentuid="h496a7358g2502g4e64gac93geb545e3a670a" version="1">火鉢</content>
- 	<content contentuid="h496ae997g45e3g42adgb608g068e3320a69e" version="4">ケセリックはマークールに選ばれし者だった</content>
+@@ -61676 +61681 @@
 -	<content contentuid="h496b04adgcc24g4ccag893dgdd4a1311987e" version="1">新しい力に慣れていくうちに、イリシッドらしいコミュニケーションの取り方を身につけるだろう。だが、たまには紙とペンを使うのもいいものだ&lt;br&gt;俺の本部、&lt;i&gt;我々の&lt;/i&gt;本部に必要な変更を加えた。盾の騎士団は再編成の必要があり、部屋はいずれ埋まるだろうが、とりあえず今は《エルフの歌》の地下が安全な隠れ場所になり、人目につかず街中を移動する手段を提供してくれるはずだ&lt;br&gt;&lt;br&gt;今夜は昔からの仲間から安らぎを得て、イリシッドの心でしか見えない人間ならではの欠点について、批判的に考えないことだ。適応期間では、昔の暮らしが安らぎをもたらすだろう。新しい暮らしについて、消極的にならなければいい&lt;br&gt;皇帝</content>
 +	<content contentuid="h496b04adgcc24g4ccag893dgdd4a1311987e" version="1">新しい力に慣れていくうちに、イリシッドらしいコミュニケーションの取り方を身につけるだろう。だが、たまには紙とペンを使うのもいいものだ&lt;br&gt;&lt;br&gt;私の本部、&lt;i&gt;我々の&lt;/i&gt;本部に必要な変更を加えた。盾の騎士団は再編成の必要があり、部屋はいずれ埋まるだろうが、とりあえず今は《エルフの歌》の地下が安全な隠れ場所になり、人目につかず街中を移動する手段を提供してくれるはずだ&lt;br&gt;&lt;br&gt;今夜は昔からの仲間から安らぎを得て、イリシッドの心でしか見えない人間ならではの欠点について、批判的に考えないことだ。適応期間では、昔の暮らしが安らぎをもたらすだろう。新しい暮らしについて、消極的にならなければいい&lt;br&gt;皇帝</content>
- 	<content contentuid="h496b6f44gb2edg4a89g804fg68431a937a9f" version="1">戻ったのか！ 約束どおり、道楽息子が姿を現した</content>
- 	<content contentuid="h496b7e54g573bg44c9g8e56gfdb0c3ce5aa9" version="2">落ち着け。地表に我々の仲間がいる。彼らを探し、このライアを奏でて案内を乞え</content>
- 	<content contentuid="h496c9e6bgfa9dg47a8g8672gf036f1710778" version="1">経由地点切り替え</content>
-@@ -67156,7 +67161,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h4feb267eg3edeg40b8g999fgfc8dac3f389e" version="3">ずっしりと重そうな鋳型で、とても頑丈な盾を作れそうだ</content>
- 	<content contentuid="h4feb3058gd244g4d35g8b0egf9d5d8aa15ab" version="1">そう？ じゃあこの小さな過ちは忘れて、「学んだ教訓」として記録しておきましょうか？</content>
- 	<content contentuid="h4feba019g6293g4517gba03gdbf585dbfb70" version="2">像の目が光っているのは、照明のつもりじゃないでしょうね。気をつけて</content>
+@@ -67159 +67164 @@
 -	<content contentuid="h4feba048gd86dg49e0gaab5g583c4cb3ed88" version="1">気をつけろ、カーラック！ 燃え尽きるぞ！</content>
 +	<content contentuid="h4feba048gd86dg49e0gaab5g583c4cb3ed88" version="1">気をつけろ、カーラック！ 熱くなってるぞ！</content>
- 	<content contentuid="h4febb7ceg6d84g4df2gae37g484df0d2953c" version="1">&lt;i&gt;立ち去る&lt;/i&gt;</content>
- 	<content contentuid="h4fec5cadg2ddbg4b77gacd8g527c801a89b1" version="2">グレートクラブ</content>
- 	<content contentuid="h4fec5f51gaa9bg4311gb046g50697bdb1d4d" version="2">すべて片付いて本当によかった。ただでさえ俺たちは厳しい立場なんだ。互いに争う必要はない</content>
-@@ -67693,7 +67698,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h509597b6g356bg46c1ga5ceg1800c44e0146" version="1">ホワイト2</content>
- 	<content contentuid="h5096684ag64bdg4fd1ga77fgdef46cdb0044" version="1">ああ、どうかしてるから、あまり怒らせるなよ。値段は変わらない。
- ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])</content>
+@@ -67696 +67701 @@
 -	<content contentuid="h5097302fgf91cg43fdgb126g3a1dbba17efc" version="1">外から見る限り、変わってない。昔から知っているカガが見える</content>
 +	<content contentuid="h5097302fgf91cg43fdgb126g3a1dbba17efc" version="1">外から見る限り、変わったわ。昔から知っているカガが見える</content>
- 	<content contentuid="h5097357bgad87g4a6fg89degd844af25332d" version="1">もちろん、専門家を探すんだ。もう心当たりがある</content>
- 	<content contentuid="h50978523gb3b7g402cg89abg3063291b9166" version="3">耐久力&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;が&lt;LSTag Tooltip="Disadvantage"&gt;不利&lt;/LSTag&gt;になり、&lt;LSTag Tooltip="Constitution"&gt;耐久力&lt;/LSTag&gt;が1低下する</content>
- 	<content contentuid="h50979453ge8a5g46cbga9cdg897d78ea6ad8" version="2">エイリンの後を追うべきだわ。助けになれなくても、せめて見守らないと</content>
-@@ -71484,7 +71489,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h551bdc4bgab34g473fg989fg79ba544de532" version="1">&lt;LSTag Tooltip="Versatile"&gt;両用武器&lt;/LSTag&gt;を装備していない</content>
- 	<content contentuid="h551be93eg5e1dg4d0fg980ag9edc57e059d9" version="1">俺もだ</content>
- 	<content contentuid="h551c00b3gd4deg4594g98d4gfde4dc59229a" version="3">最後の祈りを唱え、儀式は完成する。今後、軍団が押しかけてきても、茨が我々を守ってくれる</content>
+@@ -71487 +71492 @@
 -	<content contentuid="h551c0e3ega487g4bc0gad23gf5f2db50b1a1" version="3">*羽の生えた獣に見覚えがあった。助けてやったアウルベアの子供だった*</content>
 +	<content contentuid="h551c0e3ega487g4bc0gad23gf5f2db50b1a1" version="3">*この羽の生えた獣には見覚えがある。助けてやったアウルベアの子供だ*</content>
- 	<content contentuid="h551c7506ga329g4c83g8054ge95a5f01e021" version="2">彼を目覚めさせるんだ。サニエルを見つける手掛かりを知っているはずだ</content>
- 	<content contentuid="h551c7a2cgf2d0g4016g99cag8d9d7b9f9bcb" version="1">バードになる話はどうなった？ 好きじゃなかったのか？</content>
- 	<content contentuid="h551cac0bgbda6g4660g8783g63c007eab45c" version="2">リーガン・スプリント</content>
-@@ -73859,7 +73864,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h57eade45ga399g4fd8gb8c5g0c9c6eec12d5" version="1">*断続的な眠りに落ちた。あなたの夢は地獄の血の池と勝ち誇る&lt;i&gt;ゲイク&lt;/i&gt;に圧倒されていた*</content>
- 	<content contentuid="h57ebeb48g6444g48f2g8439g67f73df90de6" version="1">カーラック。&lt;i&gt;悪魔の代弁者め&lt;/i&gt;。アヴェルヌスの悪臭</content>
- 	<content contentuid="h57ec205dg0550g4cc3g8f92g87bf98fa1347" version="2">時間を無駄にしないで。舵へ行きなさい。急いで！</content>
+@@ -73862 +73867 @@
 -	<content contentuid="h57ec3058g8b72g4655g8630gfc93e58d89bc" version="1">私は殺され、害され、とどめを刺された。何度も何度も、ありとあらゆる司法官たちの手で。私は復活したのはそれが私の特質だったから。そしてケセリックはその間、私の不死を食い物にし続けた</content>
 +	<content contentuid="h57ec3058g8b72g4655g8630gfc93e58d89bc" version="1">私は殺され、害され、とどめを刺された。何度も何度も、ありとあらゆる司法官たちの手で。私が復活したのはそれが私の特質だったから。そしてケセリックはその間、私の不死を食い物にし続けた</content>
- 	<content contentuid="h57ec552dg12e5g4ca1g982cg8ea30b152ac7" version="1">自信がなかったら嘘をつけばいい。ドラゴンをやっつけては、金の山の上で愛を交わしてきたとか</content>
- 	<content contentuid="h57ec5fe4g2708g4cb6g8915g57bf820867b1" version="1">ギルド長</content>
- 	<content contentuid="h57ec7a37gcb4eg4f64gbeceg2c60d1df5fc6" version="1">大ビン</content>
-@@ -77904,7 +77909,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h5ccfd6eeg8376g4fd0g8301g2e17565c9396" version="2">それはお前と彼女の問題だ。コインはいらないのか？</content>
- 	<content contentuid="h5cd05482gabb3g40e0gb470gb4ca5fc617a6" version="1">体験をカスタマイズする</content>
- 	<content contentuid="h5cd0e132gdb78g4a1bg90d6gd6ec37edb0e3" version="2">いじめは嫌いだ。こいつに詫びろ。さもないと後悔するぞ</content>
+@@ -77907 +77912 @@
 -	<content contentuid="h5cd0f19dg4036g4d1fgb4efg210600e4d683" version="1">すべてクリア</content>
 +	<content contentuid="h5cd0f19dg4036g4d1fgb4efg210600e4d683" version="1">ヒント終了</content>
- 	<content contentuid="h5cd0f6d2g250bg405cgae9cg845d5824741f" version="3">ミストラは俺を祝福することにした。この辺りで俺が影の魔法に抗った努力を認めてくれた</content>
- 	<content contentuid="h5cd1202fg10fcg47b3g819dgaa6b1ed013ac" version="3">&lt;i&gt;お前は同時に1つの行動しかできない。しかしネザーブレインはありうる行動を同時にすべて計算している&lt;/i&gt;</content>
- 	<content contentuid="h5cd139b5g3debg4139gbce9ge0743b30cecb" version="1">ミストラ</content>
-@@ -78621,7 +78626,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h5d9ea8edgb787g46dag8d8dgcf4beaa6a708" version="1">野営地で休憩して次の行動を考える</content>
- 	<content contentuid="h5d9eab33g9f91g4934gb0c5gbb6975cab84d" version="1">え、泣きながらパトロンの元に戻るかな。いや、&lt;i&gt;婚約者&lt;/i&gt;と言うべきかな</content>
- 	<content contentuid="h5d9eb099ge1a0g48c3g9bceg06a4f7f7ec66" version="2">ええ... すべて覚えている。&lt;i&gt;あの2人&lt;/i&gt;は... 両親よ</content>
+@@ -78624 +78629 @@
 -	<content contentuid="h5d9ec35ege979g4a61g8c18gea8682c78fcb" version="1">行くのも悪くないな</content>
 +	<content contentuid="h5d9ec35ege979g4a61g8c18gea8682c78fcb" version="1">なかなかいい身分みたいだな</content>
- 	<content contentuid="h5d9f4bdcgad2dg407fgb8a2g62052ed2ff3e" version="1">この件はまもなく、すべて片づくかもしれない。でもケセリックは簡単に倒れない</content>
- 	<content contentuid="h5d9f7ee5g99cdg49b1gbf35g7fc84594cec2" version="1">チーライ・ワウォーガズを倒す</content>
- 	<content contentuid="h5d9fbb76gcb11g47f0ga0d6gb650bf993cae" version="1">この目標に対して次に行われる&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;が&lt;LSTag Tooltip="Advantage"&gt;有利&lt;/LSTag&gt;になる</content>
-@@ -89945,6 +89950,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h6b109ab7g3544g49c4g87c1gdd17527eef6e" version="1">ボイス1</content>
- 	<content contentuid="h6b111eacg7011g4842ga902g84ff9840fc56" version="1">&lt;i&gt;立ち去る&lt;/i&gt;</content>
- 	<content contentuid="h6b122b48g02cfg4a09gb9e6g21aee885248a" version="1">ヒューマンの母</content>
+@@ -89947,0 +89953 @@
 +	<content contentuid="h6b12411bgba38g4c37g9a0dg1c0782144386" version="1">協力プレイの間にプレイアブルキャラクターが離れた際、ゲームがどのように分割画面へ移行するかを決める </content>
- 	<content contentuid="h6b13b9e9g632fg443egb102g59611c1a7b25" version="1">もう時間がない。舵へ行かないと！</content>
- 	<content contentuid="h6b13c2fcgb44cg451egb6a7g857034cd4577" version="2">私が楽しいことを全部あなたに任せると思った？ モルが友達に連絡して、あなたの後ろを守る。信じて</content>
- 	<content contentuid="h6b13f40ag90dfg4a64gbda2gbcc40ef8ecc3" version="2">何者にしても、小さな男の子を探すくらい、簡単なはず...</content>
-@@ -93082,7 +93088,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h6ec06fddg0749g4b7fgbbe1gb973134caa6e" version="1">だが現実は違うではないか。お前は遺物を回収する命令を受け、それに失敗した</content>
- 	<content contentuid="h6ec0b48dg26e6g4a31g94c9g5e4005f5d131" version="3">*衛兵はあなたの言葉に価値を見出すかもしれない。その言葉はここでほとんど何の役にも立たない*</content>
- 	<content contentuid="h6ec0bea2ge1d0g4d6egbff7gc3d86f49d612" version="1">鷲が描かれた埃まみれの粘土板</content>
+@@ -93085 +93091 @@
 -	<content contentuid="h6ec0d217g8c1dg4a16g8404gafe1de7d1f2a" version="1">時が来て、俺が奴の一歩先を行くことができれば、奴の血が床にしたたり落ちる前にその座を奪ってやる</content>
 +	<content contentuid="h6ec0d217g8c1dg4a16g8404gafe1de7d1f2a" version="1">時が来て、俺が奴の一歩先を行くことができれば、奴の血が床にしたたり落ちる前にその座を奪える</content>
- 	<content contentuid="h6ec1cf39g1b05g405fgb94fg5a200e5b70cb" version="1">燃える拳からフロリック顧問を排除する公式な通知</content>
- 	<content contentuid="h6ec208f3g63e7g4eb0g8c22g5e6f893da306" version="1">敵から十分離れていれば、戦闘から逃走して野営地へ移動できる</content>
- 	<content contentuid="h6ec31153ga174g4782gaa71g63f6bae93961" version="1">三つ牙のオルソン。あれは今でも心臓が高鳴る</content>
-@@ -97272,7 +97278,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h73aa2c39g7572g476egbc9fg8597146cd25c" version="1">何の話かわからない</content>
- 	<content contentuid="h73aa6368g4067g44a3gbcafg85306fd7bbe4" version="2">あまり長い間座っていると、お尻に根が生えるからね</content>
- 	<content contentuid="h73aab6b3gafd7g464fg94bbg95fdf021ddd5" version="1">お前が無実の者に牙をむかなければ、俺もお前の青白い胸に杭を打ち込まない</content>
+@@ -97275 +97281 @@
 -	<content contentuid="h73ab56c1g616cg4070g96e4ga2021499e1e8" version="2">だが飛び立った時、あれに呼ばれた気がした。シャーが何を自分のものと呼ぶにしろ、セルーネイにも同じ権利がある。彼らはまったく同一よ。力も互角...</content>
 +	<content contentuid="h73ab56c1g616cg4070g96e4ga2021499e1e8" version="2">だが飛び立った時、槍に呼ばれた気がした。シャーが自身の物だと主張するなら、セルーネイにも同じく主張する権利がある。彼らはまったく同一よ。力も互角...</content>
- 	<content contentuid="h73ab5afbg7818g4d4cg881dg72f3977ce634" version="4">もう首を噛まれることはなくなって一安心だ</content>
- 	<content contentuid="h73ab817bg76c2g4849g966fga8109b80bbe9" version="1">でも... 獲物をもてあそばない？ いきなり殺すことがある？</content>
- 	<content contentuid="h73aba07fgb0dcg4028gbfceg7210174a6410" version="3">何、兵士？</content>
-@@ -97686,7 +97692,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h742ac31cg0aaag441egb685gc2195b41c247" version="1">&lt;i&gt;地獄の冒険の話でみんなを楽しませてもいい&lt;/i&gt;</content>
- 	<content contentuid="h742b816bg2cdbg4a83gb3c4g95a444da0e70" version="2">ベハルの寺院に到達する</content>
- 	<content contentuid="h742b934cgcb90g4e40ga105g0d0703f7e5b6" version="2">吐き気がする。お前になめさせるものか</content>
+@@ -97689 +97695 @@
 -	<content contentuid="h742bf57cga450g4e32gb012ge8674c5d2172" version="2">お前自身がまだ知らないことで、私がお前に言えることはない。彼らはお前をしっかりと、厳しく鍛えた。奴らの計画にそぐわない部分をすべてそぎ落とした。奴らはお前に忘れさせた</content>
 +	<content contentuid="h742bf57cga450g4e32gb012ge8674c5d2172" version="2">お前自身が知らないことは、私は伝えていない。お前は奴らにしつけられたんだ。奴らは計画にそぐわない部分をすべてそぎ落とした。奴らはお前に忘れさせた</content>
- 	<content contentuid="h742c6176g9aacg4fbdga030g6f3ee3f02646" version="2">羽根布団ではないが、なんとかなる</content>
- 	<content contentuid="h742cf736g796fg4753gbcabg13f40d445dd0" version="1">会ったのか？ それなら嘘を吹き込まれたな</content>
- 	<content contentuid="h742d33adg2812g4df2g96d0g341535169e69" version="1">今のお前を作り上げたのは俺だ。俺がいなければ何の価値もなかった</content>
-@@ -101244,7 +101250,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h78579863gc41eg4997ga315g1640db84cce4" version="2">あれは何だ？</content>
- 	<content contentuid="h7857e4a9gc4a9g411cg85a1g9d7742907fbb" version="3">悩みがあると夕食が不味くなる。遠慮なく吐き出しなさい</content>
- 	<content contentuid="h78585140ga924g43fcg86a9g499c85cc0c94" version="2">バグシンブルから墓の黄金を手に入れる</content>
+@@ -101247 +101253 @@
 -	<content contentuid="h7858ae32gf44ag41cfgae26g16e326daa0ff" version="1">どんな提案だ？</content>
 +	<content contentuid="h7858ae32gf44ag41cfgae26g16e326daa0ff" version="1">何をしたらいい？</content>
- 	<content contentuid="h7858d512g4fe6g40abg8776gde421967b9c6" version="1">シャドウハートの苦難が終わってうれしい。気持ちの整理がつくには長い時間がかかるでしょう。でも今は新しい一歩を踏み出せる。シャーにとらわれず</content>
- 	<content contentuid="h7858fb6eg3e31g4e8egaab5ge4f4a118c580" version="4">&lt;i&gt;手違いでした。検問所に戻り、正式な許可を受けてください&lt;/i&gt;</content>
- 	<content contentuid="h78590248g06a0g4ed9g8c9ag0ecd9a6b04fa" version="1">フロリックとはもう話した。彼女をあの牢獄から救出する</content>
-@@ -105757,7 +105763,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h7d8c6750gc5cag4b3dg8d3dgd496f8950bce" version="2">率直ね。私が教えた尋問の手法はすべて忘れてしまったの？ &lt;i&gt;巧妙さ&lt;/i&gt;のかけらもない</content>
- 	<content contentuid="h7d8c7100g4a1dg441ag8690ge0fd26d865c8" version="3">アブソリュートの軍勢が行軍している。ヴラーキスを味方につける必要がある</content>
- 	<content contentuid="h7d8c8bacgd8f8g4794gbeecg20031077a25f" version="1">パートナーと話す時間はあったか？ 慎重になる必要がある話だが</content>
+@@ -105760 +105766 @@
 -	<content contentuid="h7d8ca399g6633g4079gbaa5g309488d2edd6" version="2">会計事務所の宝物庫6の鍵</content>
 +	<content contentuid="h7d8ca399g6633g4079gbaa5g309488d2edd6" version="2">厳重警備の宝物庫nº6の鍵</content>
- 	<content contentuid="h7d8cb964g722cg4ab3g9a83gdea1abb58045" version="1">彼女は... そうだな、少しぶっきらぼうではあるが... 俺なら仲介できるかもしれない...</content>
- 	<content contentuid="h7d8ccd9fgbc1bg4f2bg879egff2869c0b1f4" version="2">ハハハ。やってみなさい。これは&lt;i&gt;どうしても&lt;/i&gt;見届けないと</content>
- 	<content contentuid="h7d8dacb9gdc8fg4ba9g8978g5c9689745469" version="2">レイゼルとの間に何が起こったか、聞いていると思う</content>
-@@ -107566,7 +107572,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h7fa81affge5deg4e86gac5bgae2b006660b9" version="2">ずばり...だな。そう、怯えている</content>
- 	<content contentuid="h7fa9693fg812cg488agb5ecgc79db39be555" version="1">じゃあな、オスカル。もっと根本的な治療を探してくる</content>
- 	<content contentuid="h7fa9b0d5g4ba1g4ec5ga677ge4238bd8a0a7" version="3">ねえ、とても眠いわ。楽しいことを見逃しそう</content>
+@@ -107569 +107575 @@
 -	<content contentuid="h7faa103dg7e8cg4ce1g927egd54bc6bd9835" version="1">「後」はないだろう</content>
 +	<content contentuid="h7faa103dg7e8cg4ce1g927egd54bc6bd9835" version="1">どうやら「後」はなさそうだ</content>
- 	<content contentuid="h7faa11fag2b76g4ed5g9b58g8f6588bfeb79" version="2">ここが気に入っている。もう怖くない</content>
- 	<content contentuid="h7faa7623g23feg43e8ga548g3032c0bf3153" version="2">ここで鳩が死んで、寺院のほうに引きずられた。何とも壮大な謎ね</content>
- 	<content contentuid="h7faa79cbg43b5g494ag8f93g5ac0158114fe" version="2">軟泥金属化</content>
-@@ -120886,7 +120892,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h8f55ad9fg0bf2g4df4gaa43gd588763d1bef" version="4">十分に強力な毒は、たとえ小さな一刺しでも脳に障害を引き起こし、毛細血管を萎びた管へと変えてしまう </content>
- 	<content contentuid="h8f55cb5agb8cfg40a6g861dg96cbce19e348" version="1">別種の詩神</content>
- 	<content contentuid="h8f564207gd666g43b7ga42fgb9bb41cb8fd6" version="2">この... 感覚。心地よさ、暖かさ。理解できないけど、受け入れるわ</content>
+@@ -120889 +120895 @@
 -	<content contentuid="h8f565bc4g2b6cg4cedg925bgd5c7df337326" version="2">束縛からは解放されたが、義務からは解放されていない。死せる三者が復活し、二者は残っている</content>
 +	<content contentuid="h8f565bc4g2b6cg4cedg925bgd5c7df337326" version="2">束縛からは解放されたが、義務からは解放されていない。死せる三者が復活し、二者はまだ残っている</content>
- 	<content contentuid="h8f566867gf131g4adfg892ag06a5eeca5db5" version="1">熊が描かれた埃まみれの粘土板</content>
- 	<content contentuid="h8f572b19g2dbfg48d2gbc54gb3a0aad9e7e7" version="1">&lt;i&gt;別の話をする&lt;/i&gt;</content>
- 	<content contentuid="h8f57413ag3287g46b0g891cg6e4b2ba745b3" version="1">酒をねだって踊ってるんだな...</content>
-@@ -122576,7 +122582,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9152b741g3f92g4deag880fg4f84a3647a9f" version="3">確かに... 迷ってしまった。でも償うために来た。優れし母に運命を託し、女神シャーのお導きを信じる</content>
- 	<content contentuid="h9152bd6eg432ag4ae9g94dfg67b66c789397" version="1">外見を変えにきただけだ</content>
- 	<content contentuid="h9152e999gd198g42bfg839cg62f5929bdf45" version="1">小柄な人向けの頑丈な背負い袋。布に刺激臭のする黒色粉末が付着しており、革紐が焼け焦げている</content>
+@@ -122579 +122585 @@
 -	<content contentuid="h9152fc3fg6011g4148g8d53g3a85754dc8a8" version="1">重い鉄の鍵</content>
 +	<content contentuid="h9152fc3fg6011g4148g8d53g3a85754dc8a8" version="1">厳重警備の宝物庫nº1の鍵</content>
- 	<content contentuid="h9153064dg1903g44bcgb2fdg88abebc2c3f4" version="1">壊れにくいとは言いにくいが、広々として軽い</content>
- 	<content contentuid="h91535f32g4f47g4d5bgbf59ge05726ecb96e" version="1">特定の呪文の命中率を定める&lt;LSTag Tooltip="Abilities"&gt;能力値&lt;/LSTag&gt;&lt;br&gt;&lt;Br&gt;呪文を準備する必要があるクラスでは、準備できる呪文の数にも影響する</content>
- 	<content contentuid="h91537db1gc968g4d0egabe2g2dd389d9a641" version="2">宿屋にいた理由は？</content>
-@@ -123356,7 +123362,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9242e8cdgc120g4191gab51gfd80fc9421f3" version="1">美しい話だな。聞かせてくれてありがとう</content>
- 	<content contentuid="h9242ebeeg9428g4455ga724gaf2652750ee0" version="2">行って</content>
- 	<content contentuid="h92435725gcf9eg4c93gbfbagff6c7ac4bf55" version="1">クソ、本当なのか？ 強そうな奴だったが... 俺やお前と同じぐらい</content>
+@@ -123359 +123365 @@
 -	<content contentuid="h92438aacg981eg45acg93dcge702c28309ad" version="2">私のかわいいイソベルが、私たちはお前の仲間として残ると言っている。そう聞けてうれしい</content>
 +	<content contentuid="h92438aacg981eg45acg93dcge702c28309ad" version="2">私のかわいいイソベルが、私たちはお前の仲間として残ると言っている。喜ばしいことだ</content>
- 	<content contentuid="h92449412g3c62g4d17g8bfbgd83a1bac500c" version="2">何に対する利点だ？</content>
- 	<content contentuid="h9244d40cgb36dg4d15gb83bgbfab62cfd71c" version="3">キャリオンはこんなところで何をしていたの？</content>
- 	<content contentuid="h92454557gf12fg461bgbe9cgebaac2032a5f" version="5">神のような力を持っているが、聖なる存在ではない</content>
-@@ -124173,7 +124179,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9353c137g8e01g4fb3gbc05g024da6afab03" version="1">ああ、そうしてくれ。ぜひ夕食をご一緒したい</content>
- 	<content contentuid="h9353c722g8aeeg4ce0g8534g3bb0eadfdd2d" version="1">こんなことに付き合っている暇はない</content>
- 	<content contentuid="h93540da5ga308g4acag8dcbg471285292798" version="1">確かに、イリシッドも間違いなく脅威よ。でもオルフェウスは、それ以上の脅威になる</content>
+@@ -124176 +124182 @@
 -	<content contentuid="h9354499agc05ag44beg80a2g4f99e39f0528" version="1">ゴータシュを見たんでしょう？ 奴はあそこで何をしていたの？ すべて奴のせいなの？</content>
 +	<content contentuid="h9354499agc05ag44beg80a2g4f99e39f0528" version="1">ゴータシュを見たでしょう？ 奴はあそこで何をしていたの？ すべて奴のせいなの？</content>
- 	<content contentuid="h93546744g7a66g428dg86f5g0bb2aef76c15" version="1">人形を破壊した</content>
- 	<content contentuid="h9354a35dgc116g43a9gaf89g2e014eca8208" version="2">ケセリックからの書簡</content>
- 	<content contentuid="h93554b3egb8c9g41c3ga7d3ga3ba82d24ad1" version="1">勇気ある小さなキマベス</content>
-@@ -126482,7 +126488,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h96079e8bg7d60g4905g9ec7gb94a2f52e37b" version="1">恐竜の戦い？ 細かく教えてくれ</content>
- 	<content contentuid="h9607f471g4970g4063g9d27ge18b924092e2" version="1">壊れたバリケード</content>
- 	<content contentuid="h960895f7gc376g4b90g8abbg61ceba0ce652" version="1">歪んだ木の扉</content>
+@@ -126485 +126491 @@
 -	<content contentuid="h9608b554g3683g4851g969ag8600ad5f31d3" version="1">カザドールを倒せると思うか？ 我々に敵う相手なのか？</content>
 +	<content contentuid="h9608b554g3683g4851g969ag8600ad5f31d3" version="1">カザドールを倒せると思うか？ 俺たちが敵う相手なのか？</content>
- 	<content contentuid="h9608cb3fgf175g4fe7ga857g1993bff3411e" version="1">彼女は護衛を必要としていて、ミンスクがやればいいじゃないかとブーが提案したんだ。そして彼女が自分の道へと向かったことが、ミンスクとブーを考えさせた</content>
- 	<content contentuid="h9608f504g3dbdg4e52g8cc1gb1482cc67552" version="1">調査メモ</content>
- 	<content contentuid="h960921d0g4439g41efgbcc4g3f96cde7e280" version="1">&lt;i&gt;あとは「奴ら」が誰なのかを突き止めるだけだ...&lt;/i&gt;</content>
-@@ -126927,7 +126933,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h96830062g15a8g48e2ga6a8gcc2e7473e6f7" version="1">大ビン</content>
- 	<content contentuid="h968343ccgc7d4g4e56ga62cg9e13c4d2033a" version="3">普通ならね。でも私の女神のライバルを褒められるわけがないでしょう？</content>
- 	<content contentuid="h96845537g2d0fg4116g80e0gaf6a29f773a4" version="3">&lt;i&gt;うう&lt;/i&gt;... 仕事を終わらせに来たのか？</content>
+@@ -126930 +126936 @@
 -	<content contentuid="h96845996gfdd4g40c7g925fg94fcb0fab6b7" version="2">よしわかった。誰も傷つけるなよ</content>
 +	<content contentuid="h96845996gfdd4g40c7g925fg94fcb0fab6b7" version="2">わかった。誰も傷ついてなくてよかった</content>
- 	<content contentuid="h9684cafdg500bg475eg9102g8d881054e72c" version="1">[1]%の確率で凍結した表面を溶かす</content>
- 	<content contentuid="h968508a8gca67g46b7ga578g18b5260647d4" version="2">何もなし。なんであのボタンは地面の近くにあるの？&lt;br&gt;</content>
- 	<content contentuid="h96851c22g9421g4eb4g98f8gf1cd5b1add7e" version="1">シャーを崇拝してるのか？ 驚いた。シャーは、俺の神ミストラと仲がいいとは言えない</content>
-@@ -130768,6 +130774,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9b285840g49a8g4d38ga0bfge92166fb2d5c" version="2">俺はヴァンパイアだ。永遠に若いんだ</content>
- 	<content contentuid="h9b29bcaeg5c20g43d6g93e1g0e466a95def0" version="1">&lt;i&gt;彼女にキスする&lt;/i&gt;</content>
- 	<content contentuid="h9b29bd46g2b12g4988g80b6ge44c491d8b34" version="2">早足のブーツ</content>
+@@ -130770,0 +130777 @@
 +	<content contentuid="h9b29ed03g750fg4e8cg9fb0gdb9ffd917815" version="1">インスタント</content>
- 	<content contentuid="h9b2a2c5fg48feg4105g9407ge43a4ace23fc" version="4">クレリックの呪文リストから&lt;LSTag Tooltip="Cantrip"&gt;初級呪文&lt;/LSTag&gt;を2つ、レベル1呪文を1つ習得する。レベル1呪文は&lt;LSTag Tooltip="LongRest"&gt;大休憩&lt;/LSTag&gt;ごとに1回発動できる。この3つの呪文全ての&lt;LSTag Tooltip="SpellcastingAbility"&gt;呪文発動能力&lt;/LSTag&gt;は判断力となる</content>
- 	<content contentuid="h9b2a94b6gd599g46c1gbb45g4371424cf90a" version="2">ハンマーはある、オルフェウスを解放できる</content>
- 	<content contentuid="h9b2ac696gf0c7g4cddg968bg364c67af8757" version="1">結果の削除</content>
-@@ -131870,6 +131877,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9c72de63g86bcg4208ga84dg6555bb8495bd" version="3">ふん。触手ならノーチロイドでもう堪能したわ&lt;br&gt;</content>
- 	<content contentuid="h9c72e76cg35d3g4eebg9695g977fbd738b5f" version="2">もっと高く飛ばせてやるよ、ネバネバ！</content>
- 	<content contentuid="h9c735563gd44dg4e68g9dc0g3cedf5530a5f" version="3">俺は死と隣合わせで生きている。孤独のあるところ、危険もある。だが平和もある</content>
+@@ -131872,0 +131880 @@
 +	<content contentuid="h9c73b124ge16fg4055g9447gea025eaea526" version="1">フルスクリーンの共有イニシアチブ</content>
- 	<content contentuid="h9c73c065g8430g4492gbbc3gb7b3cb5438f2" version="1">認めない</content>
- 	<content contentuid="h9c746826g4f1fg4d90gb722gc9cf627ad106" version="3">ハーパーのドラマはもういい。これからどうする？</content>
- 	<content contentuid="h9c75a28fg70e3g41f5g8f52gae4de31af38b" version="3">&lt;i&gt;警告を無視して先に進む&lt;/i&gt;</content>
-@@ -133437,7 +133445,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9e4ac23fgf83fg441bg9175ge4c4c92a6b60" version="1">補充可能なリソース</content>
- 	<content contentuid="h9e4b0003g2f19g4cc2g9cb4ga635a2f4edea" version="1">*治療を受けている死体があのアラベッラの母親だと気づいた*</content>
- 	<content contentuid="h9e4b2c02g8143g456bgab76g4120d326e541" version="2">この指輪には、一滴の血のようなルビーが鎮座している</content>
+@@ -133440 +133448 @@
 -	<content contentuid="h9e4bbf1bgbf4dg40a2g89bcg81f8ed12f66d" version="1">ルーンパウダーを入手して、動機もある。&lt;i&gt;俺たちが&lt;/i&gt;阻止しないといけない</content>
 +	<content contentuid="h9e4bbf1bgbf4dg40a2g89bcg81f8ed12f66d" version="1">ルーンパウダーも持っているし、動機もある。&lt;i&gt;俺たちが&lt;/i&gt;阻止しないといけない</content>
- 	<content contentuid="h9e4c1c97gfb64g443dgb16fg4c522d06e02d" version="1">不休のマイコニド</content>
- 	<content contentuid="h9e4d3efdg3598g4b97gbe74ge63b479f9af3" version="1">レッド・ドラゴン</content>
- 	<content contentuid="h9e4d47bdg1787g4ebeg89aeg2a1eceb3ba3c" version="2">骨に腐った鱗が散りばめられ、死んだ組織で覆われているこのドラゴンは、邪悪な死霊術によって生かされている </content>
-@@ -134596,7 +134604,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="h9fa8165bg778eg4c57g9e3ege0e8bc7ef642" version="1">墓</content>
- 	<content contentuid="h9fa82082ga157g45c8g850fgd268ed6e99da" version="2">落ち着け、カーラック。下手するとここが丸ごと吹っ飛ぶぞ</content>
- 	<content contentuid="h9fa83ee0g40dfg491cg81eegc453ae7c7988" version="1">私たちは家族を他の場所に監禁されている。監察官たちが仕掛けを起動するだけで、家族も私たちの行動の報いを受ける</content>
+@@ -134599 +134607 @@
 -	<content contentuid="h9fa8538cg1e4bg4901g845cg5f4f79ae61c0" version="1">運がよければ、キャンドルキープのこちら側で最高の良書が揃っている、魔法小間物屋の近くを通るだろう。そこへ行って、できるだけ多くの情報を得よう</content>
 +	<content contentuid="h9fa8538cg1e4bg4901g845cg5f4f79ae61c0" version="1">運がよければ、かなりの良書が揃う店にたどり着けるだろう。キャンドルキープほどではないにしろ、な。魔法小間物屋というんだ。そこへ行って、できるだけ多くの情報を得よう</content>
- 	<content contentuid="h9fa8c776gaafeg4137gbc9bg9e8c7bff25d1" version="1">&lt;i&gt;「A」(ラ)の音を鳴らす&lt;/i&gt;</content>
- 	<content contentuid="h9fa90375g0755g4407g9a53g92e03995f134" version="2">クロウリング・クロー</content>
- 	<content contentuid="h9fa91bcegc752g43c6gb6e0g97a9f646fd45" version="4">先にバルダーズ・ゲートへ行けると思うなよ。僕が指揮してる限り</content>
-@@ -141907,6 +141915,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="ha84ccca1g8a87g4fb6ga08bg987fee3f9302" version="1">後でね！</content>
- 	<content contentuid="ha84cde61gde67g400cg824ag85aeb557e7a0" version="1">解毒剤</content>
- 	<content contentuid="ha84e5bcegea3cg4746gb00eg8364e548ed7b" version="1">墓石</content>
+@@ -141909,0 +141918 @@
 +	<content contentuid="ha84e6470gc4f9g4b14gb4f7gf392fc47a711" version="1">スムーズ</content>
- 	<content contentuid="ha84fcabdge72dg4b1eg8b8cg43dcaf29fcf9" version="2">でも、まずは囚われた王子を助けましょう</content>
- 	<content contentuid="ha84fd5ffg8726g4d32gb82agf18b2d30faab" version="1">心を切り裂き、肉を削ぐ。マインド・フレイヤー</content>
- 	<content contentuid="ha8504af7gb43bg4dbdgb47bgd54166adc015" version="2">ニンブロール島のワイヴァーン・ウィスキーだ。輸入しているのはウォーターディープのギルドだけだと思うが...</content>
-@@ -142430,7 +142439,7 @@ FSRは解像度の低いフレームをアップスケールするために2パ
- 	<content contentuid="ha8e9fad6g9376g4950g9eeag0302675a9da9" version="4">ラサンダーの血か。重要なものかもしれない... まだ近くに残っていれば</content>
- 	<content contentuid="ha8ea5e4fg3ef4g47d3gb7a4gfa75862b5e3f" version="2">祈ってやりたいが、本当にお前の名前が思い出せない</content>
- 	<content contentuid="ha8eade53g20eeg4626g8852gd709b888d38d" version="1">いえ、他愛もないことよ。ただの... ジェスチャー。でも、大切なものなの</content>
+@@ -142433 +142442 @@
 -	<content contentuid="ha8eafa85gec0eg4c43g9c5cg75c4d31ffddf" version="1">選択:</content>
 +	<content contentuid="ha8eafa85gec0eg4c43g9c5cg75c4d31ffddf" version="1">選択</content>
- 	<content contentuid="ha8eb712agf5f3g4709gbd53gd180e619d5ed" version="3">活力回復</content>
- 	<content contentuid="ha8eb8677g44ceg4252gbcc7gb4dc6fa872d9" version="1">灼熱の一撃</content>
- 	<content contentuid="ha8ebaa7fg6dfag41fbga741gd43cec3b134a" version="1">彼の魂のために祈り続けろ。三神が耳を貸してくれる。必ず</content>
-@@ -148244,7 +148253,7 @@ DLSSは解像度の低いフレームをアップスケールするためにデ
- 	<content contentuid="haf9b402ag5e9bg4ae0ga9e8gaddd91a6fa31" version="1">謎が始まりました</content>
- 	<content contentuid="haf9b9e27g9f66g4490gb8b8g83783a1d8835" version="1">傷がついた花瓶</content>
- 	<content contentuid="haf9bc43bg81e3g4f30g90bdg3a39c33f54b2" version="1">あそこは吹き飛ばした。クレシュも一緒に</content>
+@@ -148247 +148256 @@
 -	<content contentuid="haf9c99b5g85dfg4310g9682g58443b038993" version="1">奴らに立ち向かうんだ。私が手を貸す</content>
 +	<content contentuid="haf9c99b5g85dfg4310g9682g58443b038993" version="1">奴らに立ち向かわなければならない。私が手を貸す</content>
- 	<content contentuid="haf9ca87dg38deg4578g9b30gec5320cbbf3d" version="2">やめろ！</content>
- 	<content contentuid="haf9cb6adgd5c3g4433g9a16ge8332c9c2a3d" version="1">会えてうれしい。そしてあのゴブリンどもを退治してくれてありがとう。実に勇敢だった</content>
- 	<content contentuid="haf9cb7a6gc10cg47d4g83c8g256a2af54e8d" version="1">儀式の場所</content>
-@@ -149740,6 +149749,7 @@ DLSSは解像度の低いフレームをアップスケールするためにデ
- 	<content contentuid="hb172dc0ag88c6g46cag8e25gede235ea3f6e" version="3">石の王のゴロツキども... 全員にとっての脅威...</content>
- 	<content contentuid="hb172e2f3gbabdg4855ga47fg28731245fe74" version="1">「計り知れない」&lt;i&gt;なんてものじゃない。&lt;/i&gt;信じがたいと言うほうがしっくりくる</content>
- 	<content contentuid="hb1731d00g14d1g4048g88c6ge2440b846a09" version="1">それで次に何が起きるか見逃すってか？ まさか</content>
+@@ -149742,0 +149752 @@
 +	<content contentuid="hb17467d3gfb4dg4404g952bgb2eb3dfbf9be" version="1">さらに&lt;br&gt;魔法のポケットを使って、旅人の箱から[1]を受け取った</content>
- 	<content contentuid="hb17483afg5a0fg4d76ga871g5fa677c5a4f1" version="2">*自由に食べ、飲みなさい。女主人がいらっしゃるのだから*</content>
- 	<content contentuid="hb1749f22g4de7g45c9gbc4egf9a5a0804272" version="3">&lt;i&gt;その... 我々のより深い関係の可能性を探るには... これが最後のチャンスかもしれない&lt;/i&gt;</content>
- 	<content contentuid="hb175355cg979ag4e14g97dbg0694b7ea4290" version="2">&lt;i&gt;ほっといて&lt;/i&gt;くれ</content>
-@@ -152082,6 +152092,7 @@ DLSSは解像度の低いフレームをアップスケールするためにデ
- 	<content contentuid="hb4503ddeg5789g4710g9b07g4b1fcfebb19a" version="3">大胆だな... 勇敢とすら言ってもいい。だが優れし母の前に跪いたとき、適当に褒めたぐらいで慈悲を受けられるとは思わないことだ</content>
- 	<content contentuid="hb4508f48g13ecg40d2g9f3fg7869a6732135" version="3">[IE_PanelSelect] ゲームメニューを開く&lt;br&gt;&lt;LSTag Type="Image" Info="TutorialCharacterSheet"/&gt;キャラクターシートを開く</content>
- 	<content contentuid="hb450b7d0g6137g4d9ag8f7cgab154d618947" version="3">ハグの餌にしてやる！</content>
+@@ -152084,0 +152095 @@
 +	<content contentuid="hb4514ea1g1cafg4cf9ga36dge06f76902536" version="1">有効にすると、戦闘中に共有イニシアチブがあるかターン制モードで戦闘しているプレイヤーは、単一の併合された画面で互いに行動する。無効にすると、プレイヤーは分割画面で同時に動く</content>
- 	<content contentuid="hb451518fg6638g46e2gae41g7966e293f7c2" version="1">*闇と消えた言葉を長く見つめるほど、頭が痛くなる。ここで見つかるものに意味はない*</content>
- 	<content contentuid="hb451db01g917dg4d02g870egd8833fb50872" version="2">あいつは俺の獲物だ！ 俺が切り殺して食べる。スパイクがそう約束してくれた</content>
- 	<content contentuid="hb4526d3ag37d5g4394g94feg715121354891" version="1">今後は自分の渇望を抑えてほしいわね。さもなければ、私とお前は別々の道を進むことになる。わかった？</content>
-@@ -154611,7 +154622,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hb71a6d15g6994g41e3g9c8dgc485c5ff2234" version="2">俺は1人でやっていけるさ。世界は広い</content>
- 	<content contentuid="hb71b352fgeeb7g47cbg9cc9g56d9aed8b09d" version="1">よく考えたら、やっぱりやってみよう</content>
- 	<content contentuid="hb71c2df5g0002g4098g97feg5ba912a57773" version="1">マークールの聖なる印だ。彼は信者をここに呼び寄せていたのだろう</content>
+@@ -154614 +154625 @@
 -	<content contentuid="hb71c4485g47c1g4a55gad74g5a225f06b92f" version="1">*各トーテムの頂上には竜の頭部が彫られており、巨大なオーブをくわえている。カルト教団員の唱える声は最初は穏やかだが、やがて星のない空への叫びに変わる*</content>
 +	<content contentuid="hb71c4485g47c1g4a55gad74g5a225f06b92f" version="1">*各トーテムの頂上には竜の頭部が彫られており、巨大なオーブをくわえている。カルト教団員の詠唱は最初は穏やかだったが、やがて星のない空への叫びに変わる*</content>
- 	<content contentuid="hb71cb3b4g5003g4be3g81e5gc3333a659f2b" version="1">恥じることはない。お前の目や&lt;i&gt;魂&lt;/i&gt;からは痛みを感じるが... 至極自然なことだ</content>
- 	<content contentuid="hb71d8d3cg5a09g44a2g970bg77a2924e0003" version="1">&lt;i&gt;塵となれ&lt;/i&gt;</content>
- 	<content contentuid="hb71dedceg1d9cg4424g8996g39e2c3d4ee91" version="2">鎧や盾を着用していない時、&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;が[1]上昇する</content>
-@@ -154909,7 +154920,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hb778655cg2d7fg4e69gb520g13ba7cd7ce83" version="4">威圧と芸能&lt;LSTag Tooltip="AbilityCheck"&gt;判定&lt;/LSTag&gt;が&lt;LSTag Tooltip="Advantage"&gt;有利&lt;/LSTag&gt;になる</content>
- 	<content contentuid="hb778c95bgf1c3g48d9g88e8gb65273d10128" version="1">スポーンはアンダーダークで食べられず、逆に食われるわ。せいせいする</content>
- 	<content contentuid="hb7793965gabdfg4c4cga621g91cf91723fa0" version="1">「鉄の手」を讃えよ。ラリッダ、祈りが届いたぞ！</content>
+@@ -154912 +154923 @@
 -	<content contentuid="hb779641dgd6f0g4a35gacfag61b184e8f299" version="4">ムーンライズか《最後の光》の信頼を裏切る</content>
 +	<content contentuid="hb779641dgd6f0g4a35gacfag61b184e8f299" version="4">ムーンライズか《最後の光》を裏切る</content>
- 	<content contentuid="hb7796c62gf73cg486agb263gc243b36a2f6d" version="1">ありがとう。時々、自分でそれを思い出さないといけないの... 誰かに言われるとうれしいものね</content>
- 	<content contentuid="hb77aba4cg2f1dg42e0ga085g3c20e3154f5f" version="1">木のベンチ</content>
- 	<content contentuid="hb77ad11ag4e17g486ega701ge62272f3e99c" version="3">お前の父の話をしていたが、母の話をしていないのはなぜだ？</content>
-@@ -157235,7 +157246,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hba2c0055g7f60g4412g95f2gdb719e1eb5a2" version="3">ノームの冒険者、ルパーディドル・スワイヤーズは、6メートルほどの高さまで跳ぶことができたと言われている。背丈は雌鳥ほどしかなかったと言う </content>
- 	<content contentuid="hba2c4872ge236g4eadgbc1eg35c35badb5df" version="2">説明しろ。なぜ死体の脳が必要なんだ</content>
- 	<content contentuid="hba2cc909ge608g4e96gacdcg662a44d2821e" version="1">ミンスクに頼む... バルダーズ・ゲートの英雄に</content>
+@@ -157238 +157249 @@
 -	<content contentuid="hba2d1cddg2262g4244gafd7g309b2f8d6d3f" version="1">任せろ、バーカス。こういうことができないのはわかってる</content>
 +	<content contentuid="hba2d1cddg2262g4244gafd7g309b2f8d6d3f" version="1">任せろ、バーカス。どうせお前1人じゃ手に負えないってわかってる</content>
- 	<content contentuid="hba2d8f77g8f5cg430agb220g747b19de027c" version="1">助けはいるか？</content>
- 	<content contentuid="hba2e0b96gacb6g4563g9006g25c48450ed3d" version="1">魔物の助け</content>
- 	<content contentuid="hba2e242fg2f6ag4b12g9e59g49244ae1e4a5" version="1">独房用の頑丈な鉄の鍵。寺院の廃墟のゴブリンが持っていた</content>
-@@ -157756,7 +157767,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hbad11b81g7680g4fe3g813fg3c83db1c04cd" version="1">俺にはもう相手がいる</content>
- 	<content contentuid="hbad16079g6445g4dc8g9ee1gdc340e57a2bf" version="1">それがなんであれ、その計画はドラゴンによって邪魔された</content>
- 	<content contentuid="hbad170cdg1a6bg41cdg979fg3508bc1e165e" version="2">それはお前が無能なだけだ。おそらくな。 ここまでは小間使いとして役に立ったが、あまり図に乗るなよ</content>
+@@ -157759 +157770 @@
 -	<content contentuid="hbad1875cgd51bg4cb0g9712gce6df40a50c6" version="2">なぜバルダーズ・ゲートの魔法の店から調べる？</content>
 +	<content contentuid="hbad1875cgd51bg4cb0g9712gce6df40a50c6" version="2">なぜバルダーズ・ゲートの魔法店から調べ始めるんだ？</content>
- 	<content contentuid="hbad1f1f2g1f25g4ea3gbe32g62163efeb065" version="2">何か問題があるの？ わかりきっていること以外に</content>
- 	<content contentuid="hbad290fbg67bag4ca1gb53dgcfaceb63bf5b" version="1">そういう事態にはならないだろう。平手打ちはくらうかもしれないが、お前なら大丈夫だ</content>
- 	<content contentuid="hbad3752fg772ag4bd1g9523gee50ca18680c" version="2">私たちは一緒に闇の中へ飛び込んだ... 抜けた先に来た今は、少し新鮮な気分がしているわ</content>
-@@ -158961,7 +158972,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hbc39fdf1g2aefg40bbg9006g3232b2290f94" version="3">絶壁の突起</content>
- 	<content contentuid="hbc3a4442gdba8g4a43g9b4ag0f5287e5ea4d" version="1">木の棚</content>
- 	<content contentuid="hbc3a9085g4a25g4c75g9e2egcb62fe97f9a9" version="1">&lt;i&gt;立ち去る&lt;/i&gt;</content>
+@@ -158964 +158975 @@
 -	<content contentuid="hbc3ba7bdg12b4g4b76g84a1g19af9b4a355c" version="3">お前自身がまだ知らないことで、私がお前に言えることはない。彼らはお前をしっかりと、厳しく鍛えた。奴らの計画にそぐわない部分をすべてそぎ落とした。奴らはお前に忘れさせた</content>
 +	<content contentuid="hbc3ba7bdg12b4g4b76g84a1g19af9b4a355c" version="3">お前自身が知らないことは、私は伝えていない。お前は奴らにしつけられたんだ。奴らは計画にそぐわない部分をすべてそぎ落とした。奴らはお前に忘れさせた</content>
- 	<content contentuid="hbc3be546g7b13g4067g8cc3g1d7d8739db29" version="1">我が姉妹が太陽に火を付けるまで苦痛はなかった。今、お前は苦しむために存在し、それは我が抱擁へ帰る道を見つけるまで続く</content>
- 	<content contentuid="hbc3c533dg1cdag47f6ga5e9g204014431ad8" version="2">あそこでの我が使命はずっと前に始まり、生涯の後悔をもたらした</content>
- 	<content contentuid="hbc3c8805g52b3g49a9g9d33g4b435724f4be" version="4">ベイン信徒は牢獄に出入りする手段を用意しているはずだ。港を捜索してくれ</content>
-@@ -161227,7 +161238,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hbee6e623g7357g45e2gb8e1g81d51c778cc1" version="1">あの火も長くは持たない</content>
- 	<content contentuid="hbee7512bg4d5cg4a20ga3c3g40a72402a127" version="2">&lt;i&gt;立ち去る&lt;/i&gt;</content>
- 	<content contentuid="hbee7689cg739bg420ag9d0eg9679d8fa21f9" version="1">許可しない(初期設定)</content>
+@@ -161230 +161241 @@
 -	<content contentuid="hbee774abg067bg441bgaab3g68327f1dd3dc" version="2">シャドウハートのことを知っているようだ。彼女にいつ伝える？</content>
 +	<content contentuid="hbee774abg067bg441bgaab3g68327f1dd3dc" version="2">シャドウハートの過去を知っているようだ。いつ彼女に伝えるつもりだ？</content>
- 	<content contentuid="hbee795f4g2592g48bdg957dg899069973426" version="3">*リンボの無秩序な環境を飛んでいる際、あなたは呼び声を聞いた*</content>
- 	<content contentuid="hbee8d795g4981g44aaga222g95d411af6259" version="2">武器攻撃に成功すると、さらに[1]を与える</content>
- 	<content contentuid="hbee8dc74g8f37g4a07ga068g1f96e1577274" version="4">患者の記録: ベリンヌ・ステルメイン公爵</content>
-@@ -166460,7 +166471,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hc506b9cfgd264g4312g9c1dga27f8e30291a" version="2">ブーツを使って&lt;LSTag Type="Spell" Tooltip="Teleportation_Dimension_Door"&gt;次元扉&lt;/LSTag&gt;を発動する</content>
- 	<content contentuid="hc506d579g8243g43adg9116gceb363727d3b" version="1">俺はダモンだ。危ないときに助けてもらったことがある。最初はドルイド、次は《最後の光》亭でな</content>
- 	<content contentuid="hc506d88egc573g4b34g96cbg1134cde017a2" version="1">ここはサーカスだよ。会計事務所じゃあるまいし！ 追い出されるだけでしょ</content>
+@@ -166463 +166474 @@
 -	<content contentuid="hc506da6fg9bd5g4c7cga8f6gc3985b4387ce" version="1">ある高貴なヴァンパイアの主人を称え、計り知れないほどの地位へと昇格させる盛大な儀式さ</content>
 +	<content contentuid="hc506da6fg9bd5g4c7cga8f6gc3985b4387ce" version="1">高貴なヴァンパイアの主人を称え、計り知れないほどの地位へと昇格させる盛大な儀式さ</content>
- 	<content contentuid="hc506e4f1g2446g4955g8fa8g90cc72715892" version="3">魚はいかが！ 健康にいいよ...</content>
- 	<content contentuid="hc50753dfg24e0g4bfbgadd4g01cf37858a0e" version="1">グルナ薬？</content>
- 	<content contentuid="hc508133fg6192g49f3g9c52g5dbd8cdeec52" version="1">なら、ここでお別れか？</content>
-@@ -166684,7 +166695,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hc54e86f6gdae1g4f36g9472g0301ac335fdb" version="1">元気そうでよかった</content>
- 	<content contentuid="hc54ea7abg01d4g498dg9745g6e1223983c11" version="2">まあ。お前の言葉を借りれば、「クソくらえ」だ</content>
- 	<content contentuid="hc54ec52dg5fdfg46aegb4e0gb7d4f4721138" version="2">ケセリックを攻撃したが、彼が不死身な間は傷つけることができない。彼を守っている遺物を探し、まず対処する</content>
+@@ -166687 +166698 @@
 -	<content contentuid="hc54f26feg6feag4f10gb7dbgaf3ebf4fab10" version="4">秘密を守るため。そう、そうだ。みんなそう言う。お前の女神は信者のことより自分の秘密が大事なのよ</content>
 +	<content contentuid="hc54f26feg6feag4f10gb7dbgaf3ebf4fab10" version="4">秘密を守るため。ああ、そうだ、みんなそう言う。お前の女神は信者のことより自分の秘密が大事なのよ</content>
- 	<content contentuid="hc54f3ae4g2dfbg4204gb7eeg159a486e12bb" version="2">目標に対して不利が必要</content>
- 	<content contentuid="hc54f6cacg1156g4277g9b90g1e2e4a2c20d0" version="1">私の女主人は時折&lt;i&gt;とんでもない&lt;/i&gt;気まぐれを起こすの</content>
- 	<content contentuid="hc54fe9ddg11d5g4bfcg8653g90e8001e1659" version="2">何者だ？</content>
-@@ -169781,7 +169792,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hc8ec425dg2f89g43e7g8b4ega1eaa3df345d" version="1">奴らは「書類」と「正しい提出の手順」についてまったくのたわごとを並べたあげく、俺をこの&lt;i&gt;スラム&lt;/i&gt;に放り込んだんだ</content>
- 	<content contentuid="hc8ec6853g8502g4177gb031g45469af2776d" version="1">そうか、話はついたな。さあ、&lt;i&gt;解散だ&lt;/i&gt;</content>
- 	<content contentuid="hc8ec8c3cgfa77g4c2bgacceg851117d0209e" version="3">アブソリュートがグリムフォージに密偵を送り込んでいることが明らかになった。グリムフォージとムーンライズ・タワーをつなぐ道があるはずだ</content>
+@@ -169784 +169795 @@
 -	<content contentuid="hc8ecb21egdabfg4528g9e3agbac9994f5d9a" version="1">さあ行こう。近くに燃える拳がいると心強い</content>
 +	<content contentuid="hc8ecb21egdabfg4528g9e3agbac9994f5d9a" version="1">一緒に来てほしい。燃える拳が共に戦ってくれたら心強い</content>
- 	<content contentuid="hc8edd3aeg920eg4ee0gbd32g50369373bd48" version="1">&lt;i&gt;あれ？&lt;/i&gt;</content>
- 	<content contentuid="hc8ee1feegb0c4g457eg8233g7ef36a9857bc" version="3">マイヤー・レイヴンシェイド卿</content>
- 	<content contentuid="hc8ee35cega245g455fg855eg73fb633ece7d" version="2">楽しくなりそうだ。お前たち！</content>
-@@ -169832,6 +169843,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hc8f809e7g692ag4d07ga32fge528d063a706" version="3">本は破壊された。闇の秘密と一緒に。ほっとした</content>
- 	<content contentuid="hc8f850adg5960g44b1g8ce0g7d85b3082b94" version="1">私の大きさが今の4分の1ならね</content>
- 	<content contentuid="hc8f89fbfg5a01g4fbeg840ag5dc50af58cbf" version="1">それ以上言わないで。やるべきことをやりなさい</content>
+@@ -169834,0 +169846 @@
 +	<content contentuid="hc8f8b734g054fg4056gb84cg365c8fd0ec1d" version="1">[2]が旅人の箱から[1]を受け取った</content>
- 	<content contentuid="hc8f92826g5606g45dagba3dg8b8d61030f58" version="2">親愛なるアンサー</content>
- 	<content contentuid="hc8fa5e39g7d18g4de1ga569gdd2b9bccca33" version="2">俺は気にしていた</content>
- 	<content contentuid="hc8fb171ageeabg4047gbc5cg5d4853dda981" version="3">シャーの熱烈な支持により、彼女の選んだ使徒が&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;神性伝導&lt;/LSTag&gt;を使うたび、[1]回復する </content>
-@@ -169855,6 +169867,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hc9034d84g372bg44b6gbb4fgc550d219e258" version="4">新しい客だ</content>
- 	<content contentuid="hc90402adg1ee6g4753ga701gb2d1be29bc73" version="1">貴族の安全を確保したら、バジリスク門に向かう。気が変わったら会いにきて</content>
- 	<content contentuid="hc9043843g18dag4f51g966eg9f13a319e5d9" version="1">青白い顔、尖った歯... そう驚くことだろうか？</content>
+@@ -169857,0 +169870 @@
 +	<content contentuid="hc9046c70gb7dbg49e8gbc8fgd324d903329f" version="1">同期リトライ</content>
- 	<content contentuid="hc9048d21g67d4g4d49gb99eg37aa80f8676a" version="1">金を払わないと頭をぶっ潰す</content>
- 	<content contentuid="hc904b4dfg7288g46eag8b00g4fbc7c229834" version="2">楽しんでいるんだ。「試してみろ、死にはしない」と言いたいが、お前の場合わからない</content>
- 	<content contentuid="hc904e785gb302g416fg88f9ga085af9932ee" version="1">休戦ね、じゃあ</content>
-@@ -177023,7 +177036,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hd163fb96g644fg4de8ga80fg43dbbac2df99" version="2">サイオニックの容貌</content>
- 	<content contentuid="hd16448ecgb619g4e32gaa71g4e7c8f45b416" version="2">骨茸の硫酸</content>
- 	<content contentuid="hd164ce4bg1fcdg4ce9gb20agf27262a515e3" version="1">走れ。&lt;i&gt;走れ。&lt;/i&gt; &lt;i&gt;彼を探せ。&lt;/i&gt;正しい方向に行くまで止まらなかった</content>
+@@ -177026 +177039 @@
 -	<content contentuid="hd1655950g3c7dg4fdegaf2cg8b45c7f7cbdb" version="1">ザリエルと出来事はあっという間だったわ。何が起こったのか、終わるまでまったくわからなかった。ある瞬間、私はバルダーズ・ゲートにいて、幸せで、健康に生きていた。次の瞬間、私は心臓に動力炉を積んでアヴェルヌスで燃え尽きていた</content>
 +	<content contentuid="hd1655950g3c7dg4fdegaf2cg8b45c7f7cbdb" version="1">ザリエルとの取引はあっという間に終わっていたわ。何が起こったのか、終わるまでまったくわからなかった。ある瞬間、私はバルダーズ・ゲートにいて、幸せで、健康に生きていた。次の瞬間、私は心臓に動力炉を積んでアヴェルヌスで燃え尽きていた</content>
- 	<content contentuid="hd165c0c2g2837g48a6gae94g214847af6c37" version="3">本当にいい新聞なんだけどね。誤字脱字もないし！</content>
- 	<content contentuid="hd165dd92g7362g4fe0g8793gf8ea946ecc99" version="1">それほど頻繁でなくなったようだが、彼女は興味をなくしたと思うか？</content>
- 	<content contentuid="hd165eb36g7e8fg46b0gad2dg0b91526cc706" version="1">いや、嘘だ。あのデカい奴は&lt;i&gt;まるで&lt;/i&gt;年恰好が合ってない</content>
-@@ -180172,6 +180185,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hd529639eg2f5eg4dd1g9aaagafebc4d62c42" version="1">行きましょう。クレシュを探さなければ。すべてを観察し、何も臆測せずに</content>
- 	<content contentuid="hd5296a4dg5a3eg4fa9gbb21gf25b28fed689" version="1">地獄の生活から休みを取れてよかった。ささいなことだが</content>
- 	<content contentuid="hd529d059g9327g45aeg9ce3ge24b70216184" version="1">シラミにたかられた野良犬め！</content>
+@@ -180174,0 +180188 @@
 +	<content contentuid="hd529e114g45f9g4057g82cag5a3517fc4353" version="1">アクティブユーザー以外は招待を受け取れません</content>
- 	<content contentuid="hd52a5fe7g5656g4d8cg9725g93cc661f50a7" version="3">[HirelingName_1_03d3080c-4144-7335-8478-a4fb38a54eb9]を解雇する</content>
- 	<content contentuid="hd52a9dd9g7f90g4395g9f0dg94a6b0554864" version="1">ゲイルは数多の神々の一柱に過ぎない。彼らはいがみ合い、戦い、支配と権力を争う運命にある。そして私たちは、彼らが使う駒となる</content>
- 	<content contentuid="hd52ace2eg18e7g45daga6a7ge5a8d6617b61" version="3">九本指の縄張りにまで食い込んだギャングのボスだ。&lt;i&gt;残虐&lt;/i&gt;な奴だ。近づくなよ</content>
-@@ -185646,7 +185660,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hdbd299d3g44d5g4da9g8f70ge6ec8686cd83" version="1">どちらにしろ、お前の顔を見なくてよくなる。俺にとっては好都合でしかない</content>
- 	<content contentuid="hdbd2a671gc22bg4235gb1ccga83254947342" version="1">ゼンタリムからものを盗んだら死ぬ運命なのよ</content>
- 	<content contentuid="hdbd341d8g6164g4657g93b2ge2e6025234a1" version="2">*トイレはないが、衛兵は喜んであなたの死体を港に運んでくれるそうだ*</content>
+@@ -185649 +185663 @@
 -	<content contentuid="hdbd352c0g7335g4a55gb35bg469373896c18" version="6">1ラウンドに1回、醸造酒が変更されて溢れると、ティソバルド・ソームは伝説的アクションを使って、対応するダメージ種別の[1]ダメージを与える </content>
 +	<content contentuid="hdbd352c0g7335g4a55gb35bg469373896c18" version="6">1ラウンドに1回、敵の攻撃で醸造酒が変更されて溢れると、ティソバルド・ソームは伝説的アクションを使って、対応するダメージ種別の[1]ダメージを与える </content>
- 	<content contentuid="hdbd3c4acg4848g48f6g9a4cg2db477ee9b28" version="1">オリジン</content>
- 	<content contentuid="hdbd4d8c0ge058g494cgbc05g4b4bd258f442" version="2">支配されたレッド・ドラゴン</content>
- 	<content contentuid="hdbd52919g801fg4c28g89a5g420cc4b11a2e" version="1">彼は面白い</content>
-@@ -190316,7 +190330,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="he1591917g8000g4b2cgba16g4cdcba6d2fd6" version="2">レイヴンガード大公爵を救出する</content>
- 	<content contentuid="he159525eg9009g45a0g9f46g89b610c7b662" version="3">最後まで戦うぞ</content>
- 	<content contentuid="he159968bg34f9g4fdag9136g7910f056534b" version="2">&lt;i&gt;目をぎゅっとつぶる&lt;/i&gt;</content>
+@@ -190319 +190333 @@
 -	<content contentuid="he15abbcag7b88g4a1dg912cgfd0eb15c18af" version="1">あなたの防具と盾が呪文発動を妨げ、&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;に&lt;LSTag Tooltip="Disadvantage"&gt;不利&lt;/LSTag&gt;を与えないようにする</content>
 +	<content contentuid="he15abbcag7b88g4a1dg912cgfd0eb15c18af" version="1">防具に合わせた習熟を取得すると、その防具を装備していても呪文の発動と攻撃が妨げられない&lt;br&gt;&lt;br&gt;習熟していない防具を装備すると、&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;が&lt;LSTag Tooltip="Disadvantage"&gt;不利&lt;/LSTag&gt;になり、呪文の発動が妨げられる</content>
- 	<content contentuid="he15ac368g544fg47dbg8eddg1758ac6c72ab" version="2">冒涜の力</content>
- 	<content contentuid="he15aece2g8ab0g4f51g8e02gdf85180f0111" version="3">だがいつの日か、炎は消え、カーラックの心臓も癒えるだろう。必ずだ</content>
- 	<content contentuid="he15b566bgec50g4f8ag96c6g752e5397fa02" version="3">俺たちから盗んでなければ、そこまで不安を覚えることもなかっただろう</content>
-@@ -201481,7 +201495,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hee8a36ffgbaa1g41a8g817fgea177e141217" version="1">俺の用がお前にどんな関係がある？</content>
- 	<content contentuid="hee8a7a96g4257g400dgaa30ga5dee7d866ad" version="1">人々は俺を大公爵として受け入れてくれるのか？ だって、見てくれ</content>
- 	<content contentuid="hee8a908agf6b9g4468gb9bdga692e7e92ba1" version="2">魔法小間物屋の前でアラディンに再会した。アラディンは、店主のウィザードであるロローカンから支払いを受け取るため、まだナイトソングを探している</content>
+@@ -201484 +201498 @@
 -	<content contentuid="hee8a95ebgec63g4fc1g965dgb48c587b6f38" version="1">世界初のルーンパウダー爆弾だ。ウィーブのウィザードが50人集まっても、あれほどの火力は出せない</content>
 +	<content contentuid="hee8a95ebgec63g4fc1g965dgb48c587b6f38" version="1">世界初のルーンパウダー爆弾だ。ウィーヴに詳しいウィザードが50人集まっても、あれほどの火力は出せない</content>
- 	<content contentuid="hee8b59b3g3e48g4c2fg9144gdb7b251f84b3" version="1">本当に、俺はそれを歓迎していなかった。予想外の悩みの種だった。今も...</content>
- 	<content contentuid="hee8b646bgc6f2g4218g9053ga8084ed62b0c" version="3">やあ。寄り添いたいのか？</content>
- 	<content contentuid="hee8bb47dga7b9g4beagb74egb3dc727355b4" version="2">ガット女司祭によって投獄された。マインド・フレイヤーに変異するところを研究したいようだ。今すぐここを出なければならない</content>
-@@ -201516,7 +201530,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hee955164g411ag4a0fg8755ge9b41b4f339c" version="1">マグテウ・ブドジの日記</content>
- 	<content contentuid="hee95cd9ag788dg4dabgb5c2g254cd479ad7c" version="2">隠し扉か。よほどの暇人が作ったようね</content>
- 	<content contentuid="hee95d489g883cg4d21g9afeg05bbb7b12329" version="1">ここだけの話だが、俺は... あんたのほうが好きだ。あいつには言わないでくれよ</content>
+@@ -201519 +201533 @@
 -	<content contentuid="hee96a2a3gb120g4ba1gbaefg227ec912c864" version="5">大したものじゃけど、受け取って。あなたにふさわしい</content>
 +	<content contentuid="hee96a2a3gb120g4ba1gbaefg227ec912c864" version="5">大したものじゃないけど、受け取って。あなたにふさわしい</content>
- 	<content contentuid="hee96b834g299ag4089g94c0gacd8f5868889" version="2">さらった人たちをここで感染させ、変身させているに違いない</content>
- 	<content contentuid="hee970a79g5db7g4fe7g9db5g465d26ea7de9" version="1">そしてお前とカーラックのために。お前たちの星が一層輝くように</content>
- 	<content contentuid="hee9720f6gd4aeg4a59gb809g424232e3947d" version="1">棘は爆発する</content>
-@@ -202001,7 +202015,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hef3175eeg87e8g4530gbb87gabbdee3d4a45" version="1">電撃のオーラのアミュレット</content>
- 	<content contentuid="hef3190d8g68c4g436cgbb8bg8e25f5502320" version="1">複数回攻撃</content>
- 	<content contentuid="hef31b2e0gf1bcg44bdg8a0cg6898a1d2e241" version="1">哀れね、少なくとも自分の選択に信念を持つことはできたのに。今のお前はただ弱く見える</content>
+@@ -202004 +202018 @@
 -	<content contentuid="hef31fe63ga576g45c0ga580gf2b0d8fa0b35" version="3">苦痛とは明晰への道だ。&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が30%以下のとき、&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;と判断力&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;に+2ボーナスが3ターンの間与えられる</content>
 +	<content contentuid="hef31fe63ga576g45c0ga580gf2b0d8fa0b35" version="3">苦痛とは明晰への道だ。&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が30%以下のとき、&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;と判断力&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;に+2ボーナス</content>
- 	<content contentuid="hef32885eg9835g4cadgb494gbaa7e64e350a" version="3">アウルベアは凶暴だ... 怒らせたら体を貫かれる</content>
- 	<content contentuid="hef3505ddg871fg4f3fgb288g5faa3cf85896" version="1">誰もが手を振るだけで治せるわけじゃないのに。なんで何も配給されないんだ？</content>
- 	<content contentuid="hef352da2gd6a9g4631g9275g2cc66dc804f1" version="2">なるほど！ 捕虜を担ぎ手にできるかもしれない。ノームの背中からいい景色が見えるでしょう</content>
-@@ -205675,7 +205689,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hf3a0b9deg37e6g4285g9a17g5c1284290481" version="1">*シャーッ！*</content>
- 	<content contentuid="hf3a0c0c1g1a65g46c5gaceag16919b5176a7" version="1">鍵... 何の鍵だ？</content>
- 	<content contentuid="hf3a0e4f2g3068g4222gb44ag66152318f3f1" version="1">俺が望むのはお前と分かち合える人生だが、残念だ... 今はお前が生きていけるとわかるだけで十分だ</content>
+@@ -205678 +205692 @@
 -	<content contentuid="hf3a12345g5379g4c76gac32g7b82605e031b" version="2">ティソバルド・ソームの醸造酒が変化すると溢れ、対応するダメージ種別の[1]を与えて味方を強化する </content>
 +	<content contentuid="hf3a12345g5379g4c76gac32g7b82605e031b" version="2">ティソバルド・ソームの醸造酒が変化すると溢れることがあり、対応するダメージ種別の[1]を与えて味方を強化する </content>
- 	<content contentuid="hf3a12b67g6b55g4013gbcfag11d79ba467a3" version="3">その金属の怪物について教えてくれ</content>
- 	<content contentuid="hf3a13a80g3bc7g4c66ga9c7g670eb8c5124f" version="1">殺意</content>
- 	<content contentuid="hf3a13bf6g6e2eg4031g8c36gb30738ecd5d4" version="1">市民</content>
-@@ -206324,11 +206338,11 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hf45a6c18ge7a4g46dfg9003gcaff5a880178" version="3">ハグめ、部屋は娼館だし&lt;i&gt;臭い&lt;/i&gt;し</content>
- 	<content contentuid="hf45a98c8g07f1g464cg838bg95c254aa3789" version="2">行っていいぞ</content>
- 	<content contentuid="hf45b7fabg27f6g49begb069gee0fd047b68c" version="1">ウリス・オベロン</content>
+@@ -206327 +206341 @@
 -	<content contentuid="hf45b9fb1ge25fg4f4dg9471g1b4d55f2c8c9" version="2">待て。兄弟がいると言ったか？</content>
 +	<content contentuid="hf45b9fb1ge25fg4f4dg9471g1b4d55f2c8c9" version="2">待て。兄弟がいるのか？</content>
- 	<content contentuid="hf45ca378g26c8g4ce5g8c11g3bc9bb12dff4" version="2">俺ならそんな決断はしなかったが、まあ人それぞれだ</content>
- 	<content contentuid="hf45cac96g2f0cg4872gbb7agdbe78491dc1a" version="3">ドルイドに用があるなら、ママが戻った時にきてくれ。しばらくかかるかもしれないけど</content>
- 	<content contentuid="hf45cd455g1e2cg4723g9508g65236a5daf66" version="1">わかったわ、愛しき者。私よりも彼らのほうがお前を必要としているわね</content>
+@@ -206331 +206345 @@
 -	<content contentuid="hf45d67a3gb5c5g415ag8c9bg8831d4838bed" version="1">この前腕のブレーサーを覆う平面の銀は、使い手が織物の中のあらゆる場所に漂う潜在的なアストラル・エネルギーを流すことを可能にする</content>
 +	<content contentuid="hf45d67a3gb5c5g415ag8c9bg8831d4838bed" version="1">この前腕のブレーサーを覆う次元銀は、ウィーヴに漂い潜むアストラル・エネルギーと交わることを可能にする</content>
- 	<content contentuid="hf45d81d6ge025g435fg84bagec48d83eae25" version="1">奴が次にもっと派手な獲物を狙ってるのは知っている。街の会計事務所でギルドがやっている、ちょっとした作戦よ</content>
- 	<content contentuid="hf45dc783g81beg4567ga3fdg069f39fbfcfc" version="1">お前の記憶は... 戻ったのか</content>
- 	<content contentuid="hf45df6dbg341fg4b35ga470gac44c886a92e" version="1">&lt;i&gt;しかしそれはどうでもいいことだ。我々はやり遂げた&lt;/i&gt;</content>
-@@ -211011,7 +211025,7 @@ Larian Studios のプライバシー基準の詳細については、当社の
- 	<content contentuid="hf9dfee61g3df4g4f8fg87fbgbe8c217a9a08" version="2">復讐を望む&lt;b&gt;&lt;i&gt;追放者&lt;/i&gt;&lt;/b&gt;よ</content>
- 	<content contentuid="hf9e01bc9g4b62g4ce7ga0b6ga539df816f01" version="3">武器に腐食の力を付与する。&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;に+1ボーナスを受け、追加で[1]を与える</content>
- 	<content contentuid="hf9e07fc9g6120g42c5gba25gae397826f98a" version="1">スペースが足りない</content>
+@@ -211014 +211028 @@
 -	<content contentuid="hf9e09af5g562ag44acgbb22gb53ad6efb589" version="2">私が選んだの。任務のために。シャーの...</content>
 +	<content contentuid="hf9e09af5g562ag44acgbb22gb53ad6efb589" version="2">自ら進んでそうしたの。任務のために。シャーの...</content>
- 	<content contentuid="hf9e0f34agdd6bg437bg98d1g7e38d67a160a" version="2">面白い。そして悲しいな。ズレル、この馬鹿を殺せ</content>
- 	<content contentuid="hf9e20512g2e38g459eg86b7g47906d3d63c1" version="1">防壁</content>
- 	<content contentuid="hf9e2219cg7256g4928g8c15gf383475c6cbb" version="1">ねえ... 笑わないで、でも私が自分について覚えていることは、泳げないってことよ。それを克服すべき時だと思うの。そしてシャーの胆汁も一緒に洗い流したい</content>

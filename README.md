@@ -5,9 +5,10 @@
 - [Patch Notes - Baldur's Gate 3 Wiki](https://bg3.wiki/wiki/Patch_Notes)
 - [Depot 1419668 for Baldur's Gate 3 · SteamDB](https://steamdb.info/depot/1419668/manifests/)
 - [Norbyte/lslib: Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files](https://github.com/Norbyte/lslib)
+- [Scoop - Apps (diffutils)](https://scoop.sh/#/apps?q=diffutils)
 
 ## 作業メモ
 1. `Win+R` => `steam://nav/console`
 2. `download_depot 1086940 1419668 {ManifestID}`
 3. run `Unpack.ps1`
-4. `git diff {previous}\Localization\Japanese\japanese.xml {today}/Localization\Japanese\japanese.xml > diff`
+4. `del alias:diff -Force && diff --unified=0 {previous}\Localization\Japanese\japanese.xml {today}/Localization\Japanese\japanese.xml > diff`
