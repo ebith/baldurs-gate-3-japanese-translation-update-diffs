@@ -1,0 +1,19 @@
+@@ -16698,0 +16699 @@
++	<content contentuid="h13ec606eg8048g492cg956bgf8b9c75b629e" version="1">オンライン機能が無効になっています。このゲームセッションにプレイヤーを招待できません。</content>
+@@ -34385 +34386 @@
+-	<content contentuid="h28bbc69ag5704g4c8fgbb64g247c913717df" version="3">&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;ボーナス・アクション&lt;/LSTag&gt;として&lt;LSTag Type="Spell" Tooltip="Target_Mage_Hand"&gt;魔道士の手&lt;/LSTag&gt;を発動できる</content>
++	<content contentuid="h28bbc69ag5704g4c8fgbb64g247c913717df" version="4">&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;ボーナス・アクション&lt;/LSTag&gt;として&lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;魔道士の手&lt;/LSTag&gt;を発動できる</content>
+@@ -53436 +53437 @@
+-	<content contentuid="h3eeaee9cge03bg4b30g93c3g1108397f1e99" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Action_Surge"&gt;怒涛のアクション&lt;/LSTag&gt;を使うと、残ったターンの間&lt;LSTag Tooltip="AttackRolls"&gt;攻撃ロール&lt;/LSTag&gt;に+[1]ボーナスを与える</content>
++	<content contentuid="h3eeaee9cge03bg4b30g93c3g1108397f1e99" version="2">&lt;LSTag Type="Status" Tooltip="ACTION_SURGE"&gt;怒涛のアクション&lt;/LSTag&gt;を使うと、残ったターンの間&lt;LSTag Tooltip="AttackRolls"&gt;攻撃ロール&lt;/LSTag&gt;に+[1]ボーナスを与える</content>
+@@ -65992,0 +65994 @@
++	<content contentuid="h4d94c0fag9dc8g45c5gb9e8gc2e2b1a95483" version="2">別の影のクリーチャーの近くにいる。凶兆の猟犬はリアクション「すぐ後ろにいる」を得る</content>
+@@ -102693,0 +102696 @@
++	<content contentuid="h78a292b3g9e6bg4c58gb01egc813a8e159de" version="1">鏡</content>
+@@ -124047,0 +124051 @@
++	<content contentuid="h91544483gad4eg461cgae9bg55cd2cb5f229" version="1">フォトモード</content>
+@@ -159727 +159731 @@
+-	<content contentuid="hbae6c94bg09c9g45e6ga267gef7984d501be" version="0">武器の&lt;LSTag Tooltip="AttackRoll"&gt;攻撃ロール&lt;/LSTag&gt;で状態異常を与えると、装備者は&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;秘術の感覚&lt;/LSTag&gt;を得る</content>
++	<content contentuid="hbae6c94bg09c9g45e6ga267gef7984d501be" version="11">武器を使った呪文か&lt;LSTag Tooltip="Cantrip"&gt;初級呪文&lt;/LSTag&gt;が目標に命中すると、&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;秘術の感覚&lt;/LSTag&gt;を得る。</content>
+@@ -160092,0 +160097 @@
++	<content contentuid="hbb491a2dg4494g4b57gada2gf7e7babad588" version="3">別の影のクリーチャーの近くにいる。呪われたスペクターはリアクション「すぐ後ろにいる」を得る</content>
