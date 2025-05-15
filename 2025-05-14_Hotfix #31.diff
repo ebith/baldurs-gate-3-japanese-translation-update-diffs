@@ -1,0 +1,19 @@
+@@ -14273 +14273 @@
+-	<content contentuid="h11102682g00b3g4510ga6a4ge2d7c33ecf85" version="2">オーリンを殺し... 娘を育てること...</content>
++	<content contentuid="h11102682g00b3g4510ga6a4ge2d7c33ecf85" version="2">オーリンを殺し...</content>
+@@ -42340 +42340 @@
+-	<content contentuid="h31ff92f1gd3a2g43cdg8567gee07fc6e5a04" version="4">奉仕に喜び、異界の契約相手は契約に新たな恩恵を加えた&lt;br&gt;&lt;br&gt;刃の契約者は契約武器で&lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;追加攻撃&lt;/LSTag&gt;を得る&lt;br&gt;&lt;br&gt;鎖の契約の&lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar"&gt;使い魔&lt;/LSTag&gt;も追加攻撃を得る&lt;br&gt;&lt;br&gt;書の契約のウォーロックは&lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;死体操り&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;加速&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_CallLightning"&gt;招雷&lt;/LSTag&gt;を大休憩ごとに1回唱えられる</content>
++	<content contentuid="h31ff92f1gd3a2g43cdg8567gee07fc6e5a04" version="4">奉仕に喜び、異界の契約相手は契約に新たな恩恵を加えた&lt;br&gt;&lt;br&gt;剣の契約: 契約武器に&lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;追加攻撃&lt;/LSTag&gt;を得る&lt;br&gt;&lt;br&gt;鎖の契約: &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar"&gt;使い魔&lt;/LSTag&gt;が追加攻撃を得る&lt;br&gt;&lt;br&gt;書の契約: &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;死体操り&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;加速&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_CallLightning"&gt;招雷&lt;/LSTag&gt;を大休憩ごとに1回発動できる</content>
+@@ -88333 +88333 @@
+-	<content contentuid="h68011865g46b7g44ddg9da6g107d02d3bb53" version="2">[1]以内のクリーチャーが、刺突ダメージに対する&lt;LSTag Tooltip="Resistant"&gt;抵抗&lt;/LSTag&gt;か&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を持たなければ、&lt;LSTag Tooltip="Vulnerable"&gt;脆弱&lt;/LSTag&gt;になる</content>
++	<content contentuid="h68011865g46b7g44ddg9da6g107d02d3bb53" version="2">[1]以内にいる敵が、刺突ダメージに対する&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を持たなければ&lt;LSTag Tooltip="Vulnerable"&gt;脆弱&lt;/LSTag&gt;になる</content>
+@@ -96936,0 +96937 @@
++	<content contentuid="h7206bbd9gaffdg4a9agaddcg6db74fb536ee" version="1">: 参加しようとしたゲームのホストは、Larian ネットワークでブロックされています。</content>
+@@ -119323 +119324 @@
+-	<content contentuid="h8bd5f99egf658g419fg8b64g839fb4dd6235" version="2">自分と子のため... 故郷を見つける...</content>
++	<content contentuid="h8bd5f99egf658g419fg8b64g839fb4dd6235" version="2">家を探すために...</content>
+@@ -173060 +173061 @@
+-	<content contentuid="hca6a61c4g4985g4472gab5bgeebc0c055f00" version="2">[1]以内にいる敵が、刺突ダメージに対する&lt;LSTag Tooltip="Resistant"&gt;抵抗&lt;/LSTag&gt;か&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を持たなければ&lt;LSTag Tooltip="Vulnerable"&gt;脆弱&lt;/LSTag&gt;になる</content>
++	<content contentuid="hca6a61c4g4985g4472gab5bgeebc0c055f00" version="2">[1]以内にいる敵が、刺突ダメージに対する&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を持たなければ&lt;LSTag Tooltip="Vulnerable"&gt;脆弱&lt;/LSTag&gt;になる</content>
+@@ -198332,0 +198334 @@
++	<content contentuid="he7d1a8afg07c2g4a09ga26ag839fa4f947e1" version="0">発動レベル変更ボーナス</content>
